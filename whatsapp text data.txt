@@ -1,0 +1,3528 @@
+1/17/22, 10:14 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+1/17/22, 10:14 - You created group "kplc"
+1/17/22, 10:17 - Dan: KPLC Token
+MtrNo:37220862447
+Token:0964-9167-9215-3134-0398
+Date:2021-09-02 22:00
+Units:5.6
+Amt Ksh:100.00
+Token Amt:56.02
+VAT:13.36
+Fuel Energy Charge:21.1
+Forex Charge:3.85
+EPRA Charge:0.16
+WARMA Charge:0.09
+REP Charge:2.79
+Inflation Adjustment:2.63.
+1/17/22, 10:17 - Dan: KPLC Token
+MtrNo:37220862447
+Token:6047-2828-3922-0419-2580
+Date:2021-09-13 18:32
+Units:5.53
+Amt Ksh:100.00
+Token Amt:55.37
+VAT:13.36
+Fuel Energy Charge:21.46
+Forex Charge:4.22
+EPRA Charge:0.16
+WARMA Charge:0.08
+REP Charge:2.76
+Inflation Adjustment:2.59.
+1/17/22, 10:18 - Dan: KPLC Token
+MtrNo:37220862447
+Token:2892-7111-5641-6025-7161
+Date:2021-09-25 19:14
+Units:5.53
+Amt Ksh:100.00
+Token Amt:55.37
+VAT:13.36
+Fuel Energy Charge:21.46
+Forex Charge:4.22
+EPRA Charge:0.16
+WARMA Charge:0.08
+REP Charge:2.76
+Inflation Adjustment:2.59.
+1/17/22, 10:18 - Dan: KPLC Token
+MtrNo:22180604559
+Token:0691-5606-8934-3146-3553
+Date:2021-10-06 18:49
+Units:5.53
+Amt Ksh:100.00
+Token Amt:55.37
+VAT:13.36
+Fuel Energy Charge:21.46
+Forex Charge:4.22
+EPRA Charge:0.16
+WARMA Charge:0.08
+REP Charge:2.76
+Inflation Adjustment:2.59.
+1/17/22, 10:18 - Dan: KPLC Token
+MtrNo:37220862447
+Token:3464-4999-6080-8575-1966
+Date:2021-10-10 20:38
+Units:2.7
+Amt Ksh:50.00
+Token Amt:27.07
+VAT:6.67
+Fuel Energy Charge:10.72
+Forex Charge:2.8
+EPRA Charge:0.08
+WARMA Charge:0.04
+REP Charge:1.35
+Inflation Adjustment:1.27.
+1/17/22, 10:19 - Dan: KPLC Token
+MtrNo:37220862447
+Token:6080-3110-7303-9463-8371
+Date:2021-10-29 22:40
+Units:10.81
+Amt Ksh:200.00
+Token Amt:108.14
+VAT:26.76
+Fuel Energy Charge:42.91
+Forex Charge:11.23
+EPRA Charge:0.32
+WARMA Charge:0.16
+REP Charge:5.4
+Inflation Adjustment:5.08.
+1/17/22, 10:19 - Dan: KPLC Token
+MtrNo:22180604559
+Token:4494-9559-4894-9613-6707
+Date:2021-11-03 19:10
+Units:5.4
+Amt Ksh:100.00
+Token Amt:54.09
+VAT:13.37
+Fuel Energy Charge:21.45
+Forex Charge:5.61
+EPRA Charge:0.16
+WARMA Charge:0.08
+REP Charge:2.7
+Inflation Adjustment:2.54.
+1/17/22, 10:19 - Dan: KPLC Token
+MtrNo:37220862447
+Token:2103-3049-8454-5652-0423
+Date:2021-12-01 23:25
+Units:5.43
+Amt Ksh:100.00
+Token Amt:54.31
+VAT:13.36
+Fuel Energy Charge:22.84
+Forex Charge:3.98
+EPRA Charge:0.16
+WRA Charge:0.09
+REP Charge:2.71
+Inflation Adjustment:2.55.
+1/17/22, 10:19 - Dan: KPLC Token
+MtrNo:22180604559
+Token:0974-3730-4660-7781-5848
+Date:2021-12-19 09:54
+Units:5.29
+Amt Ksh:100.00
+Token Amt:52.93
+VAT:13.37
+Fuel Energy Charge:24.48
+Forex Charge:3.86
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.64
+Inflation Adjustment:2.48.
+1/17/22, 10:19 - Dan: KPLC Token
+MtrNo:37220862447
+Token:2460-2813-3174-0023-2314
+Date:2022-01-16 22:28
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+1/17/22, 10:33 - Koros Anaklet joined using your invite
+1/17/22, 10:33 - Koros Anaklet: KPLC Token
+MtrNo:14403149322
+Token:2949-9085-8064-8415-8654
+Date:2022-01-13 07:02
+Units:6.21
+Amt Ksh:99.00
+Token Amt:47.87
+VAT:12.25
+Fuel Energy Charge:28.76
+Forex Charge:4.54
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.39
+Inflation Adjustment:2.91.
+1/17/22, 10:33 - Koros Anaklet: KPLC Token
+MtrNo:14403149322
+Token:7284-3076-2570-3226-1109
+Date:2022-01-13 07:01
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+1/17/22, 10:34 - Koros Anaklet: KPLC Token
+MtrNo:14403149322
+Token:0893-8117-1937-6594-1675
+Date:2022-01-05 22:05
+Units:5.23
+Amt Ksh:99.00
+Token Amt:52.39
+VAT:13.25
+Fuel Energy Charge:24.23
+Forex Charge:3.82
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.61
+Inflation Adjustment:2.46.
+1/17/22, 10:34 - Koros Anaklet: KPLC Token
+MtrNo:14403149322
+Token:5487-4149-8139-4543-4619
+Date:2022-01-05 22:05
+Units:5.29
+Amt Ksh:100.00
+Token Amt:52.93
+VAT:13.37
+Fuel Energy Charge:24.48
+Forex Charge:3.86
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.64
+Inflation Adjustment:2.48.
+1/17/22, 10:34 - Koros Anaklet: KPLC Token
+MtrNo:14403149322
+Token:6187-9079-4122-0775-8648
+Date:2021-12-23 21:13
+Units:5.29
+Amt Ksh:100.00
+Token Amt:52.93
+VAT:13.37
+Fuel Energy Charge:24.48
+Forex Charge:3.86
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.64
+Inflation Adjustment:2.48.
+1/17/22, 10:34 - Koros Anaklet: KPLC Token
+MtrNo:14403149322
+Token:2579-3027-0813-9269-3811
+Date:2021-12-23 21:10
+Units:5.23
+Amt Ksh:99.00
+Token Amt:52.39
+VAT:13.25
+Fuel Energy Charge:24.23
+Forex Charge:3.82
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.61
+Inflation Adjustment:2.46.
+1/17/22, 10:35 - Koros Anaklet: KPLC Token
+MtrNo:14403149322
+Token:2002-2861-9748-5716-2189
+Date:2021-12-23 21:10
+Units:5.29
+Amt Ksh:100.00
+Token Amt:52.93
+VAT:13.37
+Fuel Energy Charge:24.48
+Forex Charge:3.86
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.64
+Inflation Adjustment:2.48.
+1/17/22, 10:36 - Koros Anaklet: Started buying ya 100 ndio I don't get charged 😂
+1/17/22, 10:40 - Dan: Kwani kuna watu hununua more than 100?
+1/17/22, 10:41 - Koros Anaklet: Shop I buy 500 😂
+1/17/22, 10:44 - Dan: Lipa deni ya China tafasali
+1/17/22, 10:44 - Koros Anaklet: Kuna electronics mingi
+1/19/22, 12:40 - Dan: KPLC Token
+MtrNo:54600220799
+Token:3054-5901-5097-9071-4176
+Date:2021-11-28 21:50
+Units:2.71
+Amt Ksh:50.00
+Token Amt:27.18
+VAT:6.67
+Fuel Energy Charge:11.42
+Forex Charge:1.99
+EPRA Charge:0.08
+WRA Charge:0.04
+REP Charge:1.35
+Inflation Adjustment:1.27.
+1/19/22, 12:40 - Dan: KPLC Token
+MtrNo:54600220799
+Token:0009-1976-9964-2692-4842
+Date:2021-12-10 11:18
+Units:2.71
+Amt Ksh:50.00
+Token Amt:27.18
+VAT:6.67
+Fuel Energy Charge:11.42
+Forex Charge:1.99
+EPRA Charge:0.08
+WRA Charge:0.04
+REP Charge:1.35
+Inflation Adjustment:1.27.
+1/19/22, 12:40 - Dan: KPLC Token
+MtrNo:54600220799
+Token:1268-8288-2001-6513-9475
+Date:2021-12-24 09:02
+Units:2.64
+Amt Ksh:50.00
+Token Amt:26.49
+VAT:6.67
+Fuel Energy Charge:12.24
+Forex Charge:1.93
+EPRA Charge:0.07
+WRA Charge:0.04
+REP Charge:1.32
+Inflation Adjustment:1.24.
+1/19/22, 12:40 - Koros Anaklet: These are legit or it's part of data input?
+1/19/22, 12:41 - Dan: data input, tulia kidogo
+1/19/22, 12:42 - Dan: KPLC Token 
+MtrNo: 14106983787  
+Token: 6184-1389-3541-1837-1644
+Date: 2020-10-21 15:36:12 +0300
+Units kWh:30.38
+Amount Ksh:500.00
+Token Amount Ksh:303.83
+VAT: 59.33
+Fuel Energy Charge: 77.76
+Forex Charge: 32.59
+EPRA Charge: 0.91
+WARMA Charge: 0.68
+REP Charge: 15.18
+Inflation Adjustment: 9.72.
+1/19/22, 12:42 - Dan: KPLC Token
+MtrNo:01450011794
+Token:4882-5082-0509-7015-5718
+Date:2020-12-18 11:27
+Units:43.6
+Amt Ksh:1000.00
+Token Amt:688.96
+VAT:118.27
+Fuel Energy Charge:111.62
+Forex Charge:30.42
+EPRA Charge:1.3
+WARMA Charge:1.04
+REP Charge:34.44
+Inflation Adjustment:13.95.
+1/19/22, 12:42 - Dan: KPLC Token
+MtrNo:01450041692
+Token:7259-4239-7836-1851-8425
+Date:2021-01-10 18:50
+Units:30.67
+Amt Ksh:500.00
+Token Amt:306.71
+VAT:66.61
+Fuel Energy Charge:78.5
+Forex Charge:21.39
+EPRA Charge:0.92
+WARMA Charge:0.73
+REP Charge:15.33
+Inflation Adjustment:9.81.
+1/19/22, 12:43 - Dan: KPLC Token
+MtrNo:01450041692
+Token:0339-7422-5095-0029-9807
+Date:2021-02-20 21:26
+Units:30.53
+Amt Ksh:500.00
+Token Amt:305.34
+VAT:66.63
+Fuel Energy Charge:79.67
+Forex Charge:20.29
+EPRA Charge:0.91
+WARMA Charge:0.61
+REP Charge:15.26
+Inflation Adjustment:11.29.
+1/19/22, 12:43 - Dan: KPLC Token
+MtrNo:01450041692
+Token:0799-8565-2410-9786-8519
+Date:2021-03-29 21:20
+Units:28.43
+Amt Ksh:500.00
+Token Amt:284.35
+VAT:66.8
+Fuel Energy Charge:100.64
+Forex Charge:22.12
+EPRA Charge:0.85
+WARMA Charge:0.52
+REP Charge:14.21
+Inflation Adjustment:10.51.
+1/19/22, 12:43 - Dan: KPLC Token
+MtrNo:01450041692
+Token:6082-7445-0271-8600-9711
+Date:2021-04-27 21:04
+Units:29.13
+Amt Ksh:500.00
+Token Amt:291.30
+VAT:66.75
+Fuel Energy Charge:91.45
+Forex Charge:23.78
+EPRA Charge:0.87
+WARMA Charge:0.52
+REP Charge:14.56
+Inflation Adjustment:10.77.
+1/19/22, 12:44 - Dan: KPLC Token
+MtrNo:01450041692
+Token:1760-8348-8343-3131-8263
+Date:2021-05-30 09:18
+Units:29.86
+Amt Ksh:500.00
+Token Amt:298.69
+VAT:66.68
+Fuel Energy Charge:87.2
+Forex Charge:19.99
+EPRA Charge:0.89
+WARMA Charge:0.58
+REP Charge:14.93
+Inflation Adjustment:11.04.
+1/19/22, 12:44 - Dan: KPLC Token
+MtrNo:01450041692
+Token:2248-3560-7530-8180-4393
+Date:2021-07-03 07:34
+Units:25.45
+Amt Ksh:450.00
+Token Amt:254.53
+VAT:60.12
+Fuel Energy Charge:92.38
+Forex Charge:19.52
+EPRA Charge:0.76
+WARMA Charge:0.56
+REP Charge:12.72
+Inflation Adjustment:9.41.
+1/19/22, 12:44 - Dan: KPLC Token
+MtrNo:01450041692
+Token:3711-5960-9030-5997-2435
+Date:2021-07-22 10:28
+Units:5.6
+Amt Ksh:100.00
+Token Amt:56.01
+VAT:13.36
+Fuel Energy Charge:18.46
+Forex Charge:6.49
+EPRA Charge:0.16
+WARMA Charge:0.1
+REP Charge:2.79
+Inflation Adjustment:2.63.
+1/19/22, 12:45 - Dan: KPLC Token
+MtrNo:01450041692
+Token:5491-4418-7782-8897-1166
+Date:2021-08-01 00:18
+Units:27.98
+Amt Ksh:500.00
+Token Amt:279.84
+VAT:66.83
+Fuel Energy Charge:92.33
+Forex Charge:32.49
+EPRA Charge:0.83
+WARMA Charge:0.54
+REP Charge:13.99
+Inflation Adjustment:13.15.
+1/19/22, 12:45 - Dan: KPLC Token
+MtrNo:01450041692
+Token:0171-3837-6306-1998-9409
+Date:2021-08-27 04:56
+Units:33.59
+Amt Ksh:600.00
+Token Amt:335.91
+VAT:80.21
+Fuel Energy Charge:126.62
+Forex Charge:23.13
+EPRA Charge:1.0
+WARMA Charge:0.56
+REP Charge:16.79
+Inflation Adjustment:15.78.
+1/19/22, 12:45 - Dan: KPLC Token
+MtrNo:01450041692
+Token:5265-6868-3925-3405-6475
+Date:2021-10-04 06:43
+Units:27.66
+Amt Ksh:500.00
+Token Amt:276.63
+VAT:66.86
+Fuel Energy Charge:107.3
+Forex Charge:21.14
+EPRA Charge:0.82
+WARMA Charge:0.44
+REP Charge:13.82
+Inflation Adjustment:12.99.
+1/19/22, 12:46 - Dan: KPLC Token
+MtrNo:01450041692
+Token:2738-8029-2364-3716-5111
+Date:2021-11-02 21:20
+Units:27.02
+Amt Ksh:500.00
+Token Amt:270.28
+VAT:66.92
+Fuel Energy Charge:107.28
+Forex Charge:28.08
+EPRA Charge:0.81
+WARMA Charge:0.42
+REP Charge:13.51
+Inflation Adjustment:12.7.
+1/19/22, 12:46 - Dan: KPLC Token
+MtrNo:01450041692
+Token:4974-7341-9112-6727-7163
+Date:2021-12-01 20:11
+Units:27.13
+Amt Ksh:500.00
+Token Amt:271.35
+VAT:66.9
+Fuel Energy Charge:114.22
+Forex Charge:19.92
+EPRA Charge:0.81
+WRA Charge:0.49
+REP Charge:13.56
+Inflation Adjustment:12.75.
+1/19/22, 12:46 - Dan: KPLC Token
+MtrNo:01450041692
+Token:2402-3750-6717-2466-7361
+Date:2022-01-04 13:25
+Units:29.08
+Amt Ksh:550.00
+Token Amt:290.86
+VAT:73.65
+Fuel Energy Charge:134.65
+Forex Charge:21.27
+EPRA Charge:0.87
+WRA Charge:0.5
+REP Charge:14.54
+Inflation Adjustment:13.66.
+1/19/22, 12:47 - Dan: KPLC Token
+MtrNo:54500676413
+Token:2503-0355-2473-9955-6013
+Date:2022-01-07 12:39
+Units:5.29
+Amt Ksh:100.00
+Token Amt:52.93
+VAT:13.37
+Fuel Energy Charge:24.48
+Forex Charge:3.86
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.64
+Inflation Adjustment:2.48.
+1/19/22, 12:47 - Dan: KPLC Token
+MtrNo:54500676413
+Token:2213-4769-1669-4865-3345
+Date:2021-12-24 17:23
+Units:7.93
+Amt Ksh:150.00
+Token Amt:79.37
+VAT:20.07
+Fuel Energy Charge:36.72
+Forex Charge:5.8
+EPRA Charge:0.23
+WRA Charge:0.13
+REP Charge:3.96
+Inflation Adjustment:3.72.
+1/19/22, 12:47 - Dan: KPLC Token
+MtrNo:14402977061
+Token:6899-7771-2191-2114-5239
+Date:2021-12-18 22:02
+Units:3.17
+Amt Ksh:60.00
+Token Amt:31.77
+VAT:8.02
+Fuel Energy Charge:14.68
+Forex Charge:2.32
+EPRA Charge:0.09
+WRA Charge:0.05
+REP Charge:1.58
+Inflation Adjustment:1.49.
+1/19/22, 12:48 - Dan: KPLC Token
+MtrNo:14402977061
+Token:2900-7912-7371-0259-0873
+Date:2021-12-08 14:55
+Units:2.71
+Amt Ksh:50.00
+Token Amt:27.18
+VAT:6.67
+Fuel Energy Charge:11.42
+Forex Charge:1.99
+EPRA Charge:0.08
+WRA Charge:0.04
+REP Charge:1.35
+Inflation Adjustment:1.27.
+1/19/22, 12:48 - Dan: KPLC Token
+MtrNo:14402977061
+Token:2731-8704-3158-6403-3537
+Date:2021-11-27 21:21
+Units:5.43
+Amt Ksh:100.00
+Token Amt:54.31
+VAT:13.36
+Fuel Energy Charge:22.84
+Forex Charge:3.98
+EPRA Charge:0.16
+WRA Charge:0.09
+REP Charge:2.71
+Inflation Adjustment:2.55.
+1/19/22, 12:48 - Dan: KPLC Token
+MtrNo:14402977061
+Token:0953-8003-1265-7940-4482
+Date:2021-11-23 10:07
+Units:5.43
+Amt Ksh:100.00
+Token Amt:54.31
+VAT:13.36
+Fuel Energy Charge:22.84
+Forex Charge:3.98
+EPRA Charge:0.16
+WARMA Charge:0.09
+REP Charge:2.71
+Inflation Adjustment:2.55.
+1/19/22, 12:48 - Dan: KPLC Token
+MtrNo:14402977061
+Token:4445-6153-3700-0720-0393
+Date:2021-08-29 16:44
+Units:5.6
+Amt Ksh:100.00
+Token Amt:56.02
+VAT:13.36
+Fuel Energy Charge:21.1
+Forex Charge:3.85
+EPRA Charge:0.16
+WARMA Charge:0.09
+REP Charge:2.79
+Inflation Adjustment:2.63.
+1/19/22, 12:49 - Dan: KPLC Token
+MtrNo:14402977061
+Token:6899-7771-2191-2114-5239
+Date:2021-12-18 22:02
+Units:3.17
+Amt Ksh:60.00
+Token Amt:31.77
+VAT:8.02
+Fuel Energy Charge:14.68
+Forex Charge:2.32
+EPRA Charge:0.09
+WRA Charge:0.05
+REP Charge:1.58
+Inflation Adjustment:1.49.
+1/19/22, 12:50 - Dan: KPLC Token
+MtrNo:14105784822
+Token:5585-3442-0746-0662-5339
+Date:2021-10-04 08:47
+Units:79.69
+Amt Ksh:2000.00
+Token Amt:1259.16
+VAT:266.66
+Fuel Energy Charge:309.19
+Forex Charge:60.93
+EPRA Charge:2.39
+WARMA Charge:1.27
+REP Charge:62.95
+Inflation Adjustment:37.45.
+1/19/22, 12:50 - Dan: KPLC Token
+MtrNo:14105784822
+Token:6463-2527-7087-0728-8342
+Date:2021-10-19 18:38
+Units:78.37
+Amt Ksh:2000.00
+Token Amt:1238.29
+VAT:266.82
+Fuel Energy Charge:311.13
+Forex Charge:81.44
+EPRA Charge:2.35
+WARMA Charge:1.23
+REP Charge:61.91
+Inflation Adjustment:36.83.
+1/19/22, 12:50 - Dan: KPLC Token
+MtrNo:14105784822
+Token:5561-2980-1765-7423-6328
+Date:2021-11-02 13:07
+Units:78.37
+Amt Ksh:2000.00
+Token Amt:1238.29
+VAT:266.82
+Fuel Energy Charge:311.13
+Forex Charge:81.44
+EPRA Charge:2.35
+WARMA Charge:1.23
+REP Charge:61.91
+Inflation Adjustment:36.83.
+1/19/22, 12:51 - Dan: KPLC Token
+MtrNo:14105784822
+Token:0697-8546-4828-8509-1579
+Date:2021-11-16 17:12
+Units:78.6
+Amt Ksh:2000.00
+Token Amt:1241.85
+VAT:266.77
+Fuel Energy Charge:330.88
+Forex Charge:57.7
+EPRA Charge:2.35
+WARMA Charge:1.42
+REP Charge:62.09
+Inflation Adjustment:36.94.
+1/19/22, 12:51 - Dan: KPLC Token
+MtrNo:14105784822
+Token:7331-3904-8301-6545-0914
+Date:2021-12-01 19:02
+Units:78.6
+Amt Ksh:2000.00
+Token Amt:1241.85
+VAT:266.77
+Fuel Energy Charge:330.88
+Forex Charge:57.7
+EPRA Charge:2.35
+WRA Charge:1.42
+REP Charge:62.09
+Inflation Adjustment:36.94.
+1/19/22, 12:52 - Dan: KPLC Token
+MtrNo:14105784822
+Token:2242-2159-1478-7087-2854
+Date:2021-12-14 11:31
+Units:78.6
+Amt Ksh:2000.00
+Token Amt:1241.85
+VAT:266.77
+Fuel Energy Charge:330.88
+Forex Charge:57.7
+EPRA Charge:2.35
+WRA Charge:1.42
+REP Charge:62.09
+Inflation Adjustment:36.94.
+1/19/22, 12:52 - Dan: KPLC Token
+MtrNo:14105784822
+Token:5607-8276-8125-5395-7533
+Date:2021-12-25 13:30
+Units:77.13
+Amt Ksh:2000.00
+Token Amt:1218.71
+VAT:266.94
+Fuel Energy Charge:357.11
+Forex Charge:56.41
+EPRA Charge:2.31
+WRA Charge:1.34
+REP Charge:60.93
+Inflation Adjustment:36.25.
+1/19/22, 12:56 - Dan: KPLC Token
+MtrNo:54403662957
+Token:2020-5239-4523-9562-4671
+Date:2021-11-19 19:08
+Units:5.43
+Amt Ksh:100.00
+Token Amt:54.31
+VAT:13.36
+Fuel Energy Charge:22.84
+Forex Charge:3.98
+EPRA Charge:0.16
+WARMA Charge:0.09
+REP Charge:2.71
+Inflation Adjustment:2.55.
+1/19/22, 12:56 - Dan: KPLC Token
+MtrNo:37228138766
+Token:3002-9329-3799-5730-4620
+Date:2021-12-09 21:31
+Units:5.43
+Amt Ksh:100.00
+Token Amt:54.31
+VAT:13.36
+Fuel Energy Charge:22.84
+Forex Charge:3.98
+EPRA Charge:0.16
+WRA Charge:0.09
+REP Charge:2.71
+Inflation Adjustment:2.55.
+1/19/22, 13:07 - Dan: KPLC Token
+MtrNo:37187356920
+Token:5713-6981-2581-5512-3515
+Date:2022-01-11 10:51
+Units:3.14
+Amt Ksh:50.00
+Token Amt:24.19
+VAT:6.19
+Fuel Energy Charge:14.52
+Forex Charge:2.29
+EPRA Charge:0.09
+WRA Charge:0.05
+REP Charge:1.2
+Inflation Adjustment:1.47.
+1/19/22, 13:07 - Dan: KPLC Token
+MtrNo:37187356920
+Token:4664-7978-3366-6672-0736
+Date:2022-01-08 16:13
+Units:12.55
+Amt Ksh:200.00
+Token Amt:96.68
+VAT:24.75
+Fuel Energy Charge:58.1
+Forex Charge:9.17
+EPRA Charge:0.37
+WRA Charge:0.21
+REP Charge:4.83
+Inflation Adjustment:5.89.
+1/19/22, 13:13 - Dan: KPLC Token
+MtrNo:37187356920
+Token:5756-2647-0701-7324-6581
+Date:2022-01-01 05:16
+Units:10.58
+Amt Ksh:200.00
+Token Amt:105.80
+VAT:26.77
+Fuel Energy Charge:48.96
+Forex Charge:7.73
+EPRA Charge:0.31
+WRA Charge:0.18
+REP Charge:5.28
+Inflation Adjustment:4.97.
+1/19/22, 13:13 - Dan: KPLC Token
+MtrNo:37187356920
+Token:4997-4567-4974-6992-2549
+Date:2021-12-24 03:43
+Units:5.29
+Amt Ksh:100.00
+Token Amt:52.93
+VAT:13.37
+Fuel Energy Charge:24.48
+Forex Charge:3.86
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.64
+Inflation Adjustment:2.48.
+1/19/22, 13:13 - Dan: KPLC Token
+MtrNo:37187356920
+Token:6655-2073-1677-6461-8073
+Date:2021-12-21 17:00
+Units:5.29
+Amt Ksh:100.00
+Token Amt:52.93
+VAT:13.37
+Fuel Energy Charge:24.48
+Forex Charge:3.86
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.64
+Inflation Adjustment:2.48.
+1/19/22, 13:13 - Dan: KPLC Token
+MtrNo:37187356920
+Token:5277-6155-6895-2914-1372
+Date:2021-12-18 08:31
+Units:5.29
+Amt Ksh:100.00
+Token Amt:52.93
+VAT:13.37
+Fuel Energy Charge:24.48
+Forex Charge:3.86
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.64
+Inflation Adjustment:2.48.
+1/19/22, 13:13 - Dan: KPLC Token
+MtrNo:37187356920
+Token:4260-6582-9472-6581-0790
+Date:2021-12-13 15:52
+Units:5.43
+Amt Ksh:100.00
+Token Amt:54.31
+VAT:13.36
+Fuel Energy Charge:22.84
+Forex Charge:3.98
+EPRA Charge:0.16
+WRA Charge:0.09
+REP Charge:2.71
+Inflation Adjustment:2.55.
+1/19/22, 13:19 - Dan: KPLC Token
+MtrNo:54602420132
+Token:4331-4941-6153-9788-3974
+Date:2021-01-23 13:02
+Units:29.33
+Amt Ksh:500.00
+Token Amt:293.39
+VAT:66.71
+Fuel Energy Charge:75.67
+Forex Charge:38.61
+EPRA Charge:0.87
+WARMA Charge:0.71
+REP Charge:14.66
+Inflation Adjustment:9.38.
+1/19/22, 13:20 - Dan: KPLC Token
+MtrNo:54602420132
+Token:1845-8643-0809-1870-1385
+Date:2021-01-27 19:20
+Units:58.67
+Amt Ksh:1000.00
+Token Amt:586.71
+VAT:133.43
+Fuel Energy Charge:151.35
+Forex Charge:77.23
+EPRA Charge:1.75
+WARMA Charge:1.43
+REP Charge:29.33
+Inflation Adjustment:18.77.
+1/19/22, 13:20 - Dan: KPLC Token
+MtrNo:54602420132
+Token:2412-2549-5595-7608-9729
+Date:2021-02-17 21:56
+Units:61.06
+Amt Ksh:1000.00
+Token Amt:610.62
+VAT:133.28
+Fuel Energy Charge:159.35
+Forex Charge:40.59
+EPRA Charge:1.83
+WARMA Charge:1.22
+REP Charge:30.52
+Inflation Adjustment:22.59.
+1/19/22, 13:20 - Dan: KPLC Token
+MtrNo:54602420132
+Token:4469-7122-2385-1850-0749
+Date:2021-04-02 19:48
+Units:56.86
+Amt Ksh:1000.00
+Token Amt:568.66
+VAT:133.61
+Fuel Energy Charge:201.28
+Forex Charge:44.24
+EPRA Charge:1.7
+WARMA Charge:1.05
+REP Charge:28.43
+Inflation Adjustment:21.03.
+1/19/22, 13:21 - Dan: KPLC Token
+MtrNo:54602420132
+Token:1380-9278-7248-4139-9180
+Date:2021-04-26 12:12
+Units:58.25
+Amt Ksh:1000.00
+Token Amt:582.57
+VAT:133.51
+Fuel Energy Charge:182.9
+Forex Charge:47.57
+EPRA Charge:1.74
+WARMA Charge:1.04
+REP Charge:29.12
+Inflation Adjustment:21.55.
+1/19/22, 13:21 - Dan: KPLC Token
+MtrNo:54602420132
+Token:6951-4270-3373-1725-2905
+Date:2021-05-14 21:02
+Units:59.73
+Amt Ksh:1000.00
+Token Amt:597.32
+VAT:133.39
+Fuel Energy Charge:174.4
+Forex Charge:39.98
+EPRA Charge:1.79
+WARMA Charge:1.17
+REP Charge:29.86
+Inflation Adjustment:22.09.
+1/19/22, 13:21 - Dan: KPLC Token
+MtrNo:54602420132
+Token:0066-8509-5873-4320-1289
+Date:2021-06-09 20:23
+Units:59.73
+Amt Ksh:1000.00
+Token Amt:597.32
+VAT:133.39
+Fuel Energy Charge:174.4
+Forex Charge:39.98
+EPRA Charge:1.79
+WARMA Charge:1.17
+REP Charge:29.86
+Inflation Adjustment:22.09.
+1/19/22, 13:21 - Dan: KPLC Token
+MtrNo:54602420132
+Token:5816-2036-8275-0341-2174
+Date:2021-07-11 08:13
+Units:55.96
+Amt Ksh:1000.00
+Token Amt:559.65
+VAT:133.67
+Fuel Energy Charge:184.67
+Forex Charge:64.98
+EPRA Charge:1.67
+WARMA Charge:1.08
+REP Charge:27.98
+Inflation Adjustment:26.3.
+1/19/22, 13:22 - Dan: KPLC Token
+MtrNo:54602420132
+Token:0493-8203-1875-6093-9860
+Date:2021-08-04 07:25
+Units:55.96
+Amt Ksh:1000.00
+Token Amt:559.65
+VAT:133.67
+Fuel Energy Charge:184.67
+Forex Charge:64.98
+EPRA Charge:1.67
+WARMA Charge:1.08
+REP Charge:27.98
+Inflation Adjustment:26.3.
+1/19/22, 13:22 - Dan: KPLC Token
+MtrNo:54602420132
+Token:1469-7283-4977-7762-6791
+Date:2021-10-17 20:15
+Units:54.05
+Amt Ksh:1000.00
+Token Amt:540.54
+VAT:133.85
+Fuel Energy Charge:214.57
+Forex Charge:56.16
+EPRA Charge:1.62
+WARMA Charge:0.84
+REP Charge:27.02
+Inflation Adjustment:25.4.
+1/19/22, 13:22 - Dan: KPLC Token
+MtrNo:54602420132
+Token:2812-2550-1044-7334-3003
+Date:2021-11-10 19:03
+Units:27.13
+Amt Ksh:500.00
+Token Amt:271.35
+VAT:66.9
+Fuel Energy Charge:114.22
+Forex Charge:19.92
+EPRA Charge:0.81
+WARMA Charge:0.49
+REP Charge:13.56
+Inflation Adjustment:12.75.
+1/30/22, 21:18 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 48099399424587868546
+Date: 2019-09-06 06:25:50 +0300
+Units kWh:29.65
+Amount Ksh:500.00
+Token Amount Ksh:296.50
+Total All Taxes: 66.72
+Fuel Index Charge: 106.72
+Forex Charge: 6.48
+ERC Charge: 0.88
+WARMA Charge: 0.47
+REP Charge: 14.82
+Inflation Adjustment: 7.41.
+1/30/22, 21:18 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 63111372540592778679
+Date: 2019-10-25 21:42:02 +0300
+Units kWh:12.15
+Amount Ksh:200.00
+Token Amount Ksh:121.51
+VAT: 26.66
+Fuel Energy Charge: 40.08
+Forex Charge: 2.12
+EPRA Charge: 0.36
+WARMA Charge: 0.17
+REP Charge: 6.07
+Inflation Adjustment: 3.03.
+1/30/22, 21:19 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 58884083066196594839
+Date: 2019-10-23 22:31:45 +0300
+Units kWh:12.15
+Amount Ksh:200.00
+Token Amount Ksh:121.51
+VAT: 26.66
+Fuel Energy Charge: 40.08
+Forex Charge: 2.12
+EPRA Charge: 0.36
+WARMA Charge: 0.17
+REP Charge: 6.07
+Inflation Adjustment: 3.03.
+1/30/22, 21:19 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 07999155646632828692
+Date: 2019-11-16 18:39:43 +0300
+Units kWh:21.65
+Amount Ksh:500.00
+Token Amount Ksh:342.07
+Total All Taxes: 66.45
+Fuel Index Charge: 64.93
+Forex Charge: 3.06
+ERC Charge: 0.64
+WARMA Charge: 0.34
+REP Charge: 17.1
+Inflation Adjustment: 5.41.
+1/30/22, 21:19 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 07824608162762300712
+Date: 2019-11-26 05:15:39 +0300
+Units kWh:21.65
+Amount Ksh:500.00
+Token Amount Ksh:342.07
+Total All Taxes: 66.45
+Fuel Index Charge: 64.93
+Forex Charge: 3.06
+ERC Charge: 0.64
+WARMA Charge: 0.34
+REP Charge: 17.1
+Inflation Adjustment: 5.41.
+1/30/22, 21:19 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 28705176867515753947
+Date: 2019-10-08 04:41:03 +0300
+Units kWh:29.97
+Amount Ksh:500.00
+Token Amount Ksh:299.72
+Total All Taxes: 66.7
+Fuel Energy Charge: 103.38
+Forex Charge: 6.4
+EPRA Charge: 0.89
+WARMA Charge: 0.44
+REP Charge: 14.98
+Inflation Adjustment: 7.49.
+1/30/22, 21:20 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 28029181462559077129
+Date: 2019-10-31 21:26:14 +0300
+Units kWh:30.37
+Amount Ksh:500.00
+Token Amount Ksh:303.71
+VAT: 66.67
+Fuel Energy Charge: 100.21
+Forex Charge: 5.3
+EPRA Charge: 0.91
+WARMA Charge: 0.43
+REP Charge: 15.18
+Inflation Adjustment: 7.59.
+1/30/22, 21:20 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 38094323209948795814
+Date: 2019-09-28 09:49:49 +0300
+Units kWh:29.97
+Amount Ksh:500.00
+Token Amount Ksh:299.72
+Total All Taxes: 66.7
+Fuel Index Charge: 103.38
+Forex Charge: 6.4
+ERC Charge: 0.89
+WARMA Charge: 0.44
+REP Charge: 14.98
+Inflation Adjustment: 7.49.
+1/30/22, 21:20 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 62159114488350573431
+Date: 2019-08-31 13:17:28 +0300
+Units kWh:29.65
+Amount Ksh:500.00
+Token Amount Ksh:296.50
+Total All Taxes: 66.72
+Fuel Index Charge: 106.72
+Forex Charge: 6.48
+ERC Charge: 0.88
+WARMA Charge: 0.47
+REP Charge: 14.82
+Inflation Adjustment: 7.41.
+1/30/22, 21:20 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 10890605518383060637
+Date: 2019-12-11 20:48:43 +0300
+Units kWh:22.15
+Amount Ksh:500.00
+Token Amount Ksh:350.04
+VAT: 66.39
+Fuel Energy Charge: 58.69
+Forex Charge: 0.81
+EPRA Charge: 0.66
+WARMA Charge: 0.39
+REP Charge: 17.49
+Inflation Adjustment: 5.53.
+1/30/22, 21:22 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 5656-1316-3079-7791-3072
+Date: 2020-03-13 06:14:15 +0300
+Units kWh:4.49
+Amount Ksh:100.00
+Token Amount Ksh:71.00
+VAT: 13.27
+Fuel Energy Charge: 11.23
+Forex Charge: -0.51
+EPRA Charge: 0.13
+WARMA Charge: 0.09
+REP Charge: 3.54
+Inflation Adjustment: 1.25.
+1/30/22, 21:22 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 5879-5393-2171-8943-1970
+Date: 2020-03-16 05:03:03 +0300
+Units kWh:13.48
+Amount Ksh:300.00
+Token Amount Ksh:212.94
+VAT: 39.82
+Fuel Energy Charge: 33.69
+Forex Charge: -1.54
+EPRA Charge: 0.4
+WARMA Charge: 0.28
+REP Charge: 10.64
+Inflation Adjustment: 3.77.
+1/30/22, 21:23 - Dan: KPLC Token 
+Mtr No: 14106467807  
+Token: 2021-2728-0387-3703-7406
+Date: 2020-03-13 20:35:20 +0300
+Units kWh:6.74
+Amount Ksh:150.00
+Token Amount Ksh:106.49
+VAT: 19.9
+Fuel Energy Charge: 16.84
+Forex Charge: -0.77
+EPRA Charge: 0.2
+WARMA Charge: 0.14
+REP Charge: 5.32
+Inflation Adjustment: 1.88.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:1246-1235-5029-5455-1389
+Date:2021-07-17 22:42
+Units:2.8
+Amt Ksh:50.00
+Token Amt:28.04
+VAT:6.66
+Fuel Energy Charge:9.23
+Forex Charge:3.24
+EPRA Charge:0.08
+WARMA Charge:0.05
+REP Charge:1.39
+Inflation Adjustment:1.31.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:6070-8995-4174-5984-4241
+Date:2021-07-27 19:50
+Units:5.6
+Amt Ksh:100.00
+Token Amt:56.01
+VAT:13.36
+Fuel Energy Charge:18.46
+Forex Charge:6.49
+EPRA Charge:0.16
+WARMA Charge:0.1
+REP Charge:2.79
+Inflation Adjustment:2.63.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:2946-2404-7939-7889-1134
+Date:2021-08-01 15:48
+Units:5.6
+Amt Ksh:100.00
+Token Amt:56.01
+VAT:13.36
+Fuel Energy Charge:18.46
+Forex Charge:6.49
+EPRA Charge:0.16
+WARMA Charge:0.1
+REP Charge:2.79
+Inflation Adjustment:2.63.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:6626-3055-1547-0888-4262
+Date:2021-08-05 06:05
+Units:5.6
+Amt Ksh:100.00
+Token Amt:56.01
+VAT:13.36
+Fuel Energy Charge:18.46
+Forex Charge:6.49
+EPRA Charge:0.16
+WARMA Charge:0.1
+REP Charge:2.79
+Inflation Adjustment:2.63.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:4295-8323-1986-8496-1407
+Date:2021-08-06 18:31
+Units:16.79
+Amt Ksh:300.00
+Token Amt:167.92
+VAT:40.09
+Fuel Energy Charge:55.4
+Forex Charge:19.49
+EPRA Charge:0.5
+WARMA Charge:0.32
+REP Charge:8.39
+Inflation Adjustment:7.89.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:5617-3361-1097-6445-7073
+Date:2021-08-24 18:36
+Units:5.04
+Amt Ksh:90.00
+Token Amt:50.43
+VAT:12.01
+Fuel Energy Charge:18.99
+Forex Charge:3.47
+EPRA Charge:0.15
+WARMA Charge:0.08
+REP Charge:2.51
+Inflation Adjustment:2.36.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:6094-7140-1200-3423-4022
+Date:2021-08-27 11:16
+Units:13.99
+Amt Ksh:250.00
+Token Amt:139.99
+VAT:33.42
+Fuel Energy Charge:52.75
+Forex Charge:9.64
+EPRA Charge:0.41
+WARMA Charge:0.23
+REP Charge:6.99
+Inflation Adjustment:6.57.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:5323-8754-6957-3880-1597
+Date:2021-09-03 08:28
+Units:16.79
+Amt Ksh:300.00
+Token Amt:167.98
+VAT:40.09
+Fuel Energy Charge:63.31
+Forex Charge:11.56
+EPRA Charge:0.5
+WARMA Charge:0.28
+REP Charge:8.39
+Inflation Adjustment:7.89.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:0238-8771-1580-8831-0810
+Date:2021-09-10 14:01
+Units:16.59
+Amt Ksh:300.00
+Token Amt:166.00
+VAT:40.11
+Fuel Energy Charge:64.38
+Forex Charge:12.68
+EPRA Charge:0.49
+WARMA Charge:0.26
+REP Charge:8.29
+Inflation Adjustment:7.79.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:7197-1362-7577-3423-5095
+Date:2021-09-19 18:03
+Units:16.59
+Amt Ksh:300.00
+Token Amt:166.00
+VAT:40.11
+Fuel Energy Charge:64.38
+Forex Charge:12.68
+EPRA Charge:0.49
+WARMA Charge:0.26
+REP Charge:8.29
+Inflation Adjustment:7.79.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:0121-1306-6017-7857-6751
+Date:2021-09-28 19:47
+Units:13.83
+Amt Ksh:250.00
+Token Amt:138.32
+VAT:33.43
+Fuel Energy Charge:53.65
+Forex Charge:10.57
+EPRA Charge:0.41
+WARMA Charge:0.22
+REP Charge:6.91
+Inflation Adjustment:6.49.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:7067-0324-6259-1386-9409
+Date:2021-10-04 07:51
+Units:3.32
+Amt Ksh:60.00
+Token Amt:33.25
+VAT:8.01
+Fuel Energy Charge:12.87
+Forex Charge:2.53
+EPRA Charge:0.09
+WARMA Charge:0.05
+REP Charge:1.65
+Inflation Adjustment:1.55.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:1057-6748-8102-7614-0079
+Date:2021-10-05 09:55
+Units:11.06
+Amt Ksh:200.00
+Token Amt:110.67
+VAT:26.74
+Fuel Energy Charge:42.92
+Forex Charge:8.45
+EPRA Charge:0.33
+WARMA Charge:0.17
+REP Charge:5.53
+Inflation Adjustment:5.19.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:4863-1940-0099-6301-2920
+Date:2021-10-08 09:01
+Units:5.53
+Amt Ksh:100.00
+Token Amt:55.37
+VAT:13.36
+Fuel Energy Charge:21.46
+Forex Charge:4.22
+EPRA Charge:0.16
+WARMA Charge:0.08
+REP Charge:2.76
+Inflation Adjustment:2.59.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:1074-9108-2524-8216-2968
+Date:2021-10-08 20:00
+Units:27.66
+Amt Ksh:500.00
+Token Amt:276.63
+VAT:66.86
+Fuel Energy Charge:107.3
+Forex Charge:21.14
+EPRA Charge:0.82
+WARMA Charge:0.44
+REP Charge:13.82
+Inflation Adjustment:12.99.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:7246-3146-9519-9995-2390
+Date:2021-10-19 17:33
+Units:5.4
+Amt Ksh:100.00
+Token Amt:54.09
+VAT:13.37
+Fuel Energy Charge:21.45
+Forex Charge:5.61
+EPRA Charge:0.16
+WARMA Charge:0.08
+REP Charge:2.7
+Inflation Adjustment:2.54.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:4192-4232-3211-5794-2326
+Date:2021-10-22 18:06
+Units:8.11
+Amt Ksh:150.00
+Token Amt:81.13
+VAT:20.05
+Fuel Energy Charge:32.18
+Forex Charge:8.42
+EPRA Charge:0.24
+WARMA Charge:0.12
+REP Charge:4.05
+Inflation Adjustment:3.81.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:4410-2056-5489-7661-9918
+Date:2021-10-25 09:34
+Units:8.11
+Amt Ksh:150.00
+Token Amt:81.13
+VAT:20.05
+Fuel Energy Charge:32.18
+Forex Charge:8.42
+EPRA Charge:0.24
+WARMA Charge:0.12
+REP Charge:4.05
+Inflation Adjustment:3.81.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:5156-7440-0278-0350-5659
+Date:2021-10-30 08:36
+Units:27.02
+Amt Ksh:500.00
+Token Amt:270.28
+VAT:66.92
+Fuel Energy Charge:107.28
+Forex Charge:28.08
+EPRA Charge:0.81
+WARMA Charge:0.42
+REP Charge:13.51
+Inflation Adjustment:12.7.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:6047-7426-7448-0508-0292
+Date:2021-11-10 06:52
+Units:10.85
+Amt Ksh:200.00
+Token Amt:108.58
+VAT:26.75
+Fuel Energy Charge:45.68
+Forex Charge:7.96
+EPRA Charge:0.32
+WARMA Charge:0.19
+REP Charge:5.42
+Inflation Adjustment:5.1.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:5564-5779-0615-6315-3071
+Date:2021-11-14 11:24
+Units:16.28
+Amt Ksh:300.00
+Token Amt:162.83
+VAT:40.14
+Fuel Energy Charge:68.53
+Forex Charge:11.95
+EPRA Charge:0.48
+WARMA Charge:0.29
+REP Charge:8.13
+Inflation Adjustment:7.65.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:4675-3682-5836-8849-8677
+Date:2021-11-21 19:02
+Units:10.85
+Amt Ksh:200.00
+Token Amt:108.58
+VAT:26.75
+Fuel Energy Charge:45.68
+Forex Charge:7.96
+EPRA Charge:0.32
+WARMA Charge:0.19
+REP Charge:5.42
+Inflation Adjustment:5.1.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:4210-3946-3826-4031-5271
+Date:2021-11-27 21:29
+Units:10.85
+Amt Ksh:200.00
+Token Amt:108.58
+VAT:26.75
+Fuel Energy Charge:45.68
+Forex Charge:7.96
+EPRA Charge:0.32
+WRA Charge:0.19
+REP Charge:5.42
+Inflation Adjustment:5.1.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:6115-4932-5807-4386-5404
+Date:2021-11-30 19:57
+Units:27.13
+Amt Ksh:500.00
+Token Amt:271.35
+VAT:66.9
+Fuel Energy Charge:114.22
+Forex Charge:19.92
+EPRA Charge:0.81
+WRA Charge:0.49
+REP Charge:13.56
+Inflation Adjustment:12.75.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:14285870227
+Token:0523-3827-3842-0721-5287
+Date:2021-12-01 19:22
+Units:1.09
+Amt Ksh:20.00
+Token Amt:10.90
+VAT:2.66
+Fuel Energy Charge:4.56
+Forex Charge:0.79
+EPRA Charge:0.03
+WRA Charge:0.01
+REP Charge:0.54
+Inflation Adjustment:0.51.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:3170-3548-1989-7283-5253
+Date:2021-12-12 10:20
+Units:10.85
+Amt Ksh:200.00
+Token Amt:108.58
+VAT:26.75
+Fuel Energy Charge:45.68
+Forex Charge:7.96
+EPRA Charge:0.32
+WRA Charge:0.19
+REP Charge:5.42
+Inflation Adjustment:5.1.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:5477-0820-6424-6435-5153
+Date:2021-12-16 08:38
+Units:13.22
+Amt Ksh:250.00
+Token Amt:132.24
+VAT:33.47
+Fuel Energy Charge:61.2
+Forex Charge:9.66
+EPRA Charge:0.39
+WRA Charge:0.23
+REP Charge:6.6
+Inflation Adjustment:6.21.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:3863-9306-6252-6464-7928
+Date:2021-12-21 12:37
+Units:15.86
+Amt Ksh:300.00
+Token Amt:158.67
+VAT:40.17
+Fuel Energy Charge:73.44
+Forex Charge:11.6
+EPRA Charge:0.47
+WRA Charge:0.27
+REP Charge:7.93
+Inflation Adjustment:7.45.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:1873-4963-5954-2916-3713
+Date:2021-12-28 15:12
+Units:15.86
+Amt Ksh:300.00
+Token Amt:158.67
+VAT:40.17
+Fuel Energy Charge:73.44
+Forex Charge:11.6
+EPRA Charge:0.47
+WRA Charge:0.27
+REP Charge:7.93
+Inflation Adjustment:7.45.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:5653-1302-5224-2125-9738
+Date:2022-01-04 09:12
+Units:18.51
+Amt Ksh:350.00
+Token Amt:185.12
+VAT:46.86
+Fuel Energy Charge:85.68
+Forex Charge:13.53
+EPRA Charge:0.55
+WRA Charge:0.32
+REP Charge:9.25
+Inflation Adjustment:8.69.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:2775-6163-5324-7306-8176
+Date:2022-01-11 18:28
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:1042-5393-3847-9694-8886
+Date:2022-01-12 17:37
+Units:2.51
+Amt Ksh:40.00
+Token Amt:19.37
+VAT:4.94
+Fuel Energy Charge:11.62
+Forex Charge:1.83
+EPRA Charge:0.07
+WRA Charge:0.04
+REP Charge:0.96
+Inflation Adjustment:1.17.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:3583-4661-5584-7266-0902
+Date:2022-01-14 09:56
+Units:31.37
+Amt Ksh:500.00
+Token Amt:241.62
+VAT:61.89
+Fuel Energy Charge:145.26
+Forex Charge:22.94
+EPRA Charge:0.94
+WRA Charge:0.54
+REP Charge:12.07
+Inflation Adjustment:14.74.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:7156-0228-1546-8600-8325
+Date:2022-01-26 06:28
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+1/30/22, 22:03 - Dan: KPLC Token
+MtrNo:54400322571
+Token:6339-7683-9726-4785-7328
+Date:2022-01-28 20:09
+Units:25.1
+Amt Ksh:400.00
+Token Amt:193.30
+VAT:49.51
+Fuel Energy Charge:116.21
+Forex Charge:18.35
+EPRA Charge:0.75
+WRA Charge:0.43
+REP Charge:9.66
+Inflation Adjustment:11.79.
+2/3/22, 20:21 - Dan: KPLC Token
+MtrNo:14229216487
+Token:3663-5162-3906-4593-6381
+Date:2022-01-23 08:58
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/3/22, 20:21 - Dan: KPLC Token
+MtrNo:37207341415
+Token:1225-3199-7673-6053-9818
+Date:2022-01-24 21:05
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/3/22, 21:15 - Koros Anaklet: KPLC Token
+MtrNo:14403149322
+Token:0181-1664-1570-5982-7523
+Date:2022-02-01 19:28
+Units:21.96
+Amt Ksh:350.00
+Token Amt:169.14
+VAT:43.32
+Fuel Energy Charge:101.68
+Forex Charge:16.06
+EPRA Charge:0.65
+WRA Charge:0.38
+REP Charge:8.45
+Inflation Adjustment:10.32.
+2/3/22, 21:15 - Koros Anaklet: KPLC Token
+MtrNo:14403149322
+Token:4023-3114-4989-9344-2235
+Date:2022-01-31 21:15
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/5/22, 19:31 - Dan: KPLC Token
+MtrNo:14235278489
+Token:3053-2237-4803-9428-1786
+Date:2022-01-31 22:04
+Units:8.09
+Amt Ksh:177.00
+Token Amt:102.03
+VAT:22.31
+Fuel Energy Charge:37.47
+Forex Charge:5.92
+EPRA Charge:0.24
+WRA Charge:0.14
+REP Charge:5.09
+Inflation Adjustment:3.8.
+2/6/22, 21:01 - Dan: KPLC Token
+MtrNo:14243479046
+Token:1778-1415-5593-4638-3394
+Date:2022-02-04 07:54
+Units:3.14
+Amt Ksh:50.00
+Token Amt:24.19
+VAT:6.19
+Fuel Energy Charge:14.52
+Forex Charge:2.29
+EPRA Charge:0.09
+WRA Charge:0.05
+REP Charge:1.2
+Inflation Adjustment:1.47.
+2/6/22, 21:01 - Dan: KPLC Token
+MtrNo:22120445006
+Token:0275-0908-0005-4794-2737
+Date:2022-01-07 11:25
+Units:15.86
+Amt Ksh:300.00
+Token Amt:158.67
+VAT:40.17
+Fuel Energy Charge:73.44
+Forex Charge:11.6
+EPRA Charge:0.47
+WRA Charge:0.27
+REP Charge:7.93
+Inflation Adjustment:7.45.
+2/6/22, 21:02 - Dan: KPLC Token
+MtrNo:22120445006
+Token:5626-2300-4136-8697-2860
+Date:2021-11-24 20:48
+Units:10.85
+Amt Ksh:200.00
+Token Amt:108.58
+VAT:26.75
+Fuel Energy Charge:45.68
+Forex Charge:7.96
+EPRA Charge:0.32
+WARMA Charge:0.19
+REP Charge:5.42
+Inflation Adjustment:5.1.
+2/6/22, 21:15 - Dan: KPLC Token
+MtrNo:22120445006
+Token:6971-6105-1930-2762-4623
+Date:2021-10-14 20:20
+Units:16.21
+Amt Ksh:300.00
+Token Amt:162.19
+VAT:40.14
+Fuel Energy Charge:64.37
+Forex Charge:16.85
+EPRA Charge:0.48
+WARMA Charge:0.25
+REP Charge:8.1
+Inflation Adjustment:7.62.
+2/6/22, 21:15 - Dan: KPLC Token
+MtrNo:22120445006
+Token:7081-4242-4748-3198-6661
+Date:2021-08-14 19:36
+Units:16.79
+Amt Ksh:300.00
+Token Amt:167.98
+VAT:40.09
+Fuel Energy Charge:63.31
+Forex Charge:11.56
+EPRA Charge:0.5
+WARMA Charge:0.28
+REP Charge:8.39
+Inflation Adjustment:7.89.
+2/6/22, 21:24 - Dan: KPLC Token
+MtrNo:22180604559
+Token:1796-4213-3983-4551-6978
+Date:2021-11-26 21:53
+Units:5.43
+Amt Ksh:100.00
+Token Amt:54.31
+VAT:13.36
+Fuel Energy Charge:22.84
+Forex Charge:3.98
+EPRA Charge:0.16
+WARMA Charge:0.09
+REP Charge:2.71
+Inflation Adjustment:2.55.
+2/6/22, 21:25 - Dan: KPLC Token
+MtrNo:22180604559
+Token:0382-6112-8766-2086-8961
+Date:2021-11-30 19:13
+Units:10.85
+Amt Ksh:200.00
+Token Amt:108.58
+VAT:26.75
+Fuel Energy Charge:45.68
+Forex Charge:7.96
+EPRA Charge:0.32
+WRA Charge:0.19
+REP Charge:5.42
+Inflation Adjustment:5.1
+2/6/22, 21:25 - Dan: KPLC Token
+MtrNo:22180604559
+Token:0662-3871-3290-7361-0037
+Date:2021-12-03 18:24
+Units:10.85
+Amt Ksh:200.00
+Token Amt:108.58
+VAT:26.75
+Fuel Energy Charge:45.68
+Forex Charge:7.96
+EPRA Charge:0.32
+WRA Charge:0.19
+REP Charge:5.42
+Inflation Adjustment:5.1.
+2/6/22, 21:25 - Dan: KPLC Token
+MtrNo:22180604559
+Token:2723-0135-8281-4150-0426
+Date:2022-01-21 20:22
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/6/22, 21:25 - Dan: KPLC Token
+MtrNo:22180604559
+Token:2015-4694-5233-2980-2380
+Date:2022-01-25 18:29
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/6/22, 21:25 - Dan: KPLC Token
+MtrNo:22180604559
+Token:4153-5111-3550-1645-6286
+Date:2022-01-30 09:12
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/6/22, 21:26 - Dan: KPLC Token
+MtrNo:22180604559
+Token:4331-6182-9473-3135-5673
+Date:2022-02-02 18:33
+Units:1.0
+Amt Ksh:16.00
+Token Amt:7.76
+VAT:1.98
+Fuel Energy Charge:4.64
+Forex Charge:0.73
+EPRA Charge:0.03
+WRA Charge:0.01
+REP Charge:0.38
+Inflation Adjustment:0.47.
+2/6/22, 21:26 - Dan: KPLC Token
+MtrNo:14367629988
+Token:6115-8923-1825-2694-1838
+Date:2022-02-02 22:04
+Units:31.37
+Amt Ksh:500.00
+Token Amt:241.62
+VAT:61.89
+Fuel Energy Charge:145.26
+Forex Charge:22.94
+EPRA Charge:0.94
+WRA Charge:0.54
+REP Charge:12.07
+Inflation Adjustment:14.74.
+2/6/22, 21:26 - Dan: KPLC Token
+MtrNo:14284167617
+Token:7268-8290-8143-2287-2035
+Date:2021-12-03 17:23
+Units:8.14
+Amt Ksh:150.00
+Token Amt:81.44
+VAT:20.07
+Fuel Energy Charge:34.26
+Forex Charge:5.97
+EPRA Charge:0.24
+WRA Charge:0.14
+REP Charge:4.06
+Inflation Adjustment:3.82.
+2/6/22, 21:26 - Dan: KPLC Token
+MtrNo:14284167617
+Token:7374-6780-7600-1819-7549
+Date:2021-12-30 07:42
+Units:7.93
+Amt Ksh:150.00
+Token Amt:79.37
+VAT:20.07
+Fuel Energy Charge:36.72
+Forex Charge:5.8
+EPRA Charge:0.23
+WRA Charge:0.13
+REP Charge:3.96
+Inflation Adjustment:3.72.
+2/6/22, 21:31 - Dan: KPLC Token
+MtrNo:14244765641
+Token:3395-4846-7319-6428-1839
+Date:2022-01-22 18:39
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/6/22, 21:31 - Dan: KPLC Token
+MtrNo:14244765641
+Token:4063-2962-1224-1428-9905
+Date:2022-01-10 18:49
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/6/22, 21:31 - Dan: KPLC Token
+MtrNo:14244765641
+Token:5099-5380-1358-3479-8277
+Date:2022-01-10 18:46
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/6/22, 21:31 - Dan: KPLC Token
+MtrNo:37172976013
+Token:2012-9138-7382-5476-8814
+Date:2021-05-05 13:11
+Units:5.83
+Amt Ksh:100.00
+Token Amt:58.29
+VAT:13.34
+Fuel Energy Charge:18.29
+Forex Charge:4.75
+EPRA Charge:0.17
+WARMA Charge:0.1
+REP Charge:2.91
+Inflation Adjustment:2.15.
+2/6/22, 21:31 - Dan: KPLC Token
+MtrNo:37172976013
+Token:4836-7767-3879-1368-4270
+Date:2021-04-20 09:51
+Units:5.83
+Amt Ksh:100.00
+Token Amt:58.29
+VAT:13.34
+Fuel Energy Charge:18.29
+Forex Charge:4.75
+EPRA Charge:0.17
+WARMA Charge:0.1
+REP Charge:2.91
+Inflation Adjustment:2.15.
+2/6/22, 21:31 - Dan: KPLC Token
+MtrNo:37172976013
+Token:7171-4857-0376-8463-7747
+Date:2021-04-10 09:14
+Units:5.69
+Amt Ksh:100.00
+Token Amt:56.91
+VAT:13.34
+Fuel Energy Charge:20.12
+Forex Charge:4.42
+EPRA Charge:0.17
+WARMA Charge:0.1
+REP Charge:2.84
+Inflation Adjustment:2.1.
+2/6/22, 21:31 - Dan: KPLC Token
+MtrNo:37172976013
+Token:2254-9354-3868-9984-8896
+Date:2021-04-03 07:09
+Units:2.84
+Amt Ksh:50.00
+Token Amt:28.47
+VAT:6.66
+Fuel Energy Charge:10.06
+Forex Charge:2.21
+EPRA Charge:0.08
+WARMA Charge:0.05
+REP Charge:1.42
+Inflation Adjustment:1.05.
+2/6/22, 21:32 - Dan: KPLC Token
+MtrNo:14367629988
+Token:6115-8923-1825-2694-1838
+Date:2022-02-02 22:04
+Units:31.37
+Amt Ksh:500.00
+Token Amt:241.62
+VAT:61.89
+Fuel Energy Charge:145.26
+Forex Charge:22.94
+EPRA Charge:0.94
+WRA Charge:0.54
+REP Charge:12.07
+Inflation Adjustment:14.74.
+2/6/22, 21:32 - Dan: KPLC Token
+MtrNo:14272535494
+Token:2285-0951-5758-4327-9015
+Date:2022-01-21 16:17
+Units:12.55
+Amt Ksh:200.00
+Token Amt:96.68
+VAT:24.75
+Fuel Energy Charge:58.1
+Forex Charge:9.17
+EPRA Charge:0.37
+WRA Charge:0.21
+REP Charge:4.83
+Inflation Adjustment:5.89.
+2/6/22, 21:32 - Dan: KPLC Token
+MtrNo:14367629988
+Token:5531-7514-9800-4299-3463
+Date:2021-11-14 12:38
+Units:8.14
+Amt Ksh:150.00
+Token Amt:81.44
+VAT:20.07
+Fuel Energy Charge:34.26
+Forex Charge:5.97
+EPRA Charge:0.24
+WARMA Charge:0.14
+REP Charge:4.06
+Inflation Adjustment:3.82.
+2/6/22, 21:32 - Dan: KPLC Token
+MtrNo:14367629988
+Token:5746-1968-0095-0857-0203
+Date:2021-10-03 19:20
+Units:11.06
+Amt Ksh:200.00
+Token Amt:110.67
+VAT:26.74
+Fuel Energy Charge:42.92
+Forex Charge:8.45
+EPRA Charge:0.33
+WARMA Charge:0.17
+REP Charge:5.53
+Inflation Adjustment:5.19.
+2/6/22, 22:14 - Dan: KPLC Token
+MtrNo:22120072040
+Token:5718-6678-0309-8940-8505
+Date:2022-01-10 13:26
+Units:18.82
+Amt Ksh:300.00
+Token Amt:145.00
+VAT:37.13
+Fuel Energy Charge:87.15
+Forex Charge:13.76
+EPRA Charge:0.56
+WRA Charge:0.32
+REP Charge:7.24
+Inflation Adjustment:8.84.
+2/6/22, 22:14 - Dan: KPLC Token
+MtrNo:22120072040
+Token:2990-5716-5762-6675-0077
+Date:2022-02-02 17:12
+Units:21.96
+Amt Ksh:350.00
+Token Amt:169.14
+VAT:43.32
+Fuel Energy Charge:101.68
+Forex Charge:16.06
+EPRA Charge:0.65
+WRA Charge:0.38
+REP Charge:8.45
+Inflation Adjustment:10.32.
+2/6/22, 22:14 - Dan: KPLC Token
+MtrNo:22120072040
+Token:7128-5275-5957-4543-0583
+Date:2022-01-28 12:51
+Units:12.55
+Amt Ksh:200.00
+Token Amt:96.68
+VAT:24.75
+Fuel Energy Charge:58.1
+Forex Charge:9.17
+EPRA Charge:0.37
+WRA Charge:0.21
+REP Charge:4.83
+Inflation Adjustment:5.89.
+2/6/22, 22:14 - Dan: KPLC Token
+MtrNo:22120072040
+Token:0067-7546-6269-7747-3015
+Date:2022-01-23 15:12
+Units:9.41
+Amt Ksh:150.00
+Token Amt:72.50
+VAT:18.57
+Fuel Energy Charge:43.57
+Forex Charge:6.88
+EPRA Charge:0.28
+WRA Charge:0.16
+REP Charge:3.62
+Inflation Adjustment:4.42.
+2/6/22, 22:14 - Dan: KPLC Token
+MtrNo:22120072040
+Token:5718-6678-0309-8940-8505
+Date:2022-01-10 13:26
+Units:18.82
+Amt Ksh:300.00
+Token Amt:145.00
+VAT:37.13
+Fuel Energy Charge:87.15
+Forex Charge:13.76
+EPRA Charge:0.56
+WRA Charge:0.32
+REP Charge:7.24
+Inflation Adjustment:8.84.
+2/6/22, 22:14 - Dan: KPLC Mtr No:22170958114 Token:2414 9613 5991 1523 8351 Units:5.43 Amount:Ksh:100.00 (Elec:54.31 Other Charges:45.69) Date:2021-12-05 05:59:26 Ref:133905597160
+2/7/22, 00:49 - Dan: KPLC Token
+MtrNo:14420327489
+Token:2287-0691-9424-5127-8745
+Date:2022-02-04 17:52
+Units:18.82
+Amt Ksh:300.00
+Token Amt:145.00
+VAT:37.13
+Fuel Energy Charge:87.15
+Forex Charge:13.76
+EPRA Charge:0.56
+WRA Charge:0.32
+REP Charge:7.24
+Inflation Adjustment:8.84.
+2/7/22, 00:49 - Dan: KPLC Token
+MtrNo:14367765691
+Token:3401-0052-1332-3862-9826
+Date:2022-02-03 23:05
+Units:18.82
+Amt Ksh:300.00
+Token Amt:145.00
+VAT:37.13
+Fuel Energy Charge:87.15
+Forex Charge:13.76
+EPRA Charge:0.56
+WRA Charge:0.32
+REP Charge:7.24
+Inflation Adjustment:8.84.
+2/7/22, 00:49 - Dan: KPLC Token
+MtrNo:14420327489
+Token:3155-1777-4238-4642-8699
+Date:2022-01-28 22:19
+Units:13.72
+Amt Ksh:300.00
+Token Amt:172.91
+VAT:37.82
+Fuel Energy Charge:63.52
+Forex Charge:10.03
+EPRA Charge:0.41
+WRA Charge:0.23
+REP Charge:8.64
+Inflation Adjustment:6.44.
+2/7/22, 00:49 - Dan: KPLC Token
+MtrNo:14367765691
+Token:6596-2807-1616-0346-3572
+Date:2022-01-27 17:54
+Units:18.82
+Amt Ksh:300.00
+Token Amt:145.00
+VAT:37.13
+Fuel Energy Charge:87.15
+Forex Charge:13.76
+EPRA Charge:0.56
+WRA Charge:0.32
+REP Charge:7.24
+Inflation Adjustment:8.84.
+2/7/22, 00:49 - Dan: KPLC Token
+MtrNo:14367765691
+Token:4952-2221-4054-6748-7855
+Date:2022-01-22 14:57
+Units:12.55
+Amt Ksh:200.00
+Token Amt:96.68
+VAT:24.75
+Fuel Energy Charge:58.1
+Forex Charge:9.17
+EPRA Charge:0.37
+WRA Charge:0.21
+REP Charge:4.83
+Inflation Adjustment:5.89.
+2/7/22, 00:49 - Dan: KPLC Token
+MtrNo:14420327489
+Token:2037-6463-3504-4007-0812
+Date:2022-01-19 15:53
+Units:22.87
+Amt Ksh:500.00
+Token Amt:288.17
+VAT:63.03
+Fuel Energy Charge:105.87
+Forex Charge:16.72
+EPRA Charge:0.68
+WRA Charge:0.39
+REP Charge:14.4
+Inflation Adjustment:10.74.
+2/7/22, 00:49 - Dan: KPLC Token
+MtrNo:14367765691
+Token:3733-6677-9538-6708-9216
+Date:2022-01-17 10:01
+Units:12.55
+Amt Ksh:200.00
+Token Amt:96.68
+VAT:24.75
+Fuel Energy Charge:58.1
+Forex Charge:9.17
+EPRA Charge:0.37
+WRA Charge:0.21
+REP Charge:4.83
+Inflation Adjustment:5.89.
+2/7/22, 00:49 - Dan: KPLC Token
+MtrNo:37195227634
+Token:4374-0146-4700-2704-5070
+Date:2022-01-16 23:15
+Units:13.72
+Amt Ksh:300.00
+Token Amt:172.91
+VAT:37.82
+Fuel Energy Charge:63.52
+Forex Charge:10.03
+EPRA Charge:0.41
+WRA Charge:0.23
+REP Charge:8.64
+Inflation Adjustment:6.44.
+2/7/22, 00:49 - Dan: KPLC Token
+MtrNo:37195227634
+Token:0803-2192-6343-4410-3006
+Date:2022-01-11 10:38
+Units:13.72
+Amt Ksh:300.00
+Token Amt:172.91
+VAT:37.82
+Fuel Energy Charge:63.52
+Forex Charge:10.03
+EPRA Charge:0.41
+WRA Charge:0.23
+REP Charge:8.64
+Inflation Adjustment:6.44.
+2/7/22, 00:49 - Dan: KPLC Token
+MtrNo:14367765691
+Token:7123-6511-0503-4482-6513
+Date:2022-01-07 06:34
+Units:15.86
+Amt Ksh:300.00
+Token Amt:158.67
+VAT:40.17
+Fuel Energy Charge:73.44
+Forex Charge:11.6
+EPRA Charge:0.47
+WRA Charge:0.27
+REP Charge:7.93
+Inflation Adjustment:7.45.
+2/7/22, 00:49 - Dan: KPLC Token
+MtrNo:14367765691
+Token:1437-8931-2892-5049-5532
+Date:2022-01-01 08:38
+Units:15.86
+Amt Ksh:300.00
+Token Amt:158.67
+VAT:40.17
+Fuel Energy Charge:73.44
+Forex Charge:11.6
+EPRA Charge:0.47
+WRA Charge:0.27
+REP Charge:7.93
+Inflation Adjustment:7.45.
+2/7/22, 00:50 - Dan: KPLC Token
+MtrNo:37170869046
+Token:0724-1261-8569-1914-9287
+Date:2021-06-10 11:11
+Units:14.14
+Amt Ksh:250.00
+Token Amt:141.43
+VAT:33.39
+Fuel Energy Charge:51.32
+Forex Charge:10.84
+EPRA Charge:0.42
+WARMA Charge:0.31
+REP Charge:7.06
+Inflation Adjustment:5.23.
+2/7/22, 00:50 - Dan: KPLC Token
+MtrNo:37170869046
+Token:4790-1351-6685-3658-3895
+Date:2021-10-13 22:21
+Units:3.51
+Amt Ksh:65.00
+Token Amt:35.17
+VAT:8.69
+Fuel Energy Charge:13.94
+Forex Charge:3.65
+EPRA Charge:0.1
+WARMA Charge:0.05
+REP Charge:1.75
+Inflation Adjustment:1.65.
+2/7/22, 00:50 - Dan: KPLC Token
+MtrNo:37170869046
+Token:3919-6166-8073-5425-9140
+Date:2021-10-14 22:38
+Units:2.7
+Amt Ksh:50.00
+Token Amt:27.07
+VAT:6.67
+Fuel Energy Charge:10.72
+Forex Charge:2.8
+EPRA Charge:0.08
+WARMA Charge:0.04
+REP Charge:1.35
+Inflation Adjustment:1.27.
+2/7/22, 00:50 - Dan: KPLC Token
+MtrNo:14286114757
+Token:1239-8438-3781-1608-4991
+Date:2021-10-10 10:50
+Units:3.78
+Amt Ksh:70.00
+Token Amt:37.88
+VAT:9.35
+Fuel Energy Charge:15.02
+Forex Charge:3.93
+EPRA Charge:0.11
+WARMA Charge:0.05
+REP Charge:1.89
+Inflation Adjustment:1.77.
+2/7/22, 00:50 - Dan: KPLC Token
+MtrNo:37170869046
+Token:3260-8656-5883-5460-8580
+Date:2021-10-08 21:59
+Units:7.74
+Amt Ksh:140.00
+Token Amt:77.48
+VAT:18.71
+Fuel Energy Charge:30.04
+Forex Charge:5.92
+EPRA Charge:0.23
+WARMA Charge:0.12
+REP Charge:3.87
+Inflation Adjustment:3.63.
+2/7/22, 00:50 - Dan: KPLC Token
+MtrNo:37170869046
+Token:4504-4722-5279-3820-0226
+Date:2021-09-26 14:22
+Units:2.77
+Amt Ksh:50.00
+Token Amt:27.70
+VAT:6.67
+Fuel Energy Charge:10.73
+Forex Charge:2.11
+EPRA Charge:0.08
+WARMA Charge:0.04
+REP Charge:1.38
+Inflation Adjustment:1.29.
+2/7/22, 00:50 - Dan: KPLC Token
+MtrNo:54606942495
+Token:5059-0766-0377-3721-9277
+Date:2021-09-21 16:44
+Units:2.77
+Amt Ksh:50.00
+Token Amt:27.70
+VAT:6.67
+Fuel Energy Charge:10.73
+Forex Charge:2.11
+EPRA Charge:0.08
+WARMA Charge:0.04
+REP Charge:1.38
+Inflation Adjustment:1.29.
+2/7/22, 00:50 - Dan: KPLC Token
+MtrNo:37170869046
+Token:3549-9318-4957-8204-9300
+Date:2021-09-17 21:57
+Units:2.77
+Amt Ksh:50.00
+Token Amt:27.70
+VAT:6.67
+Fuel Energy Charge:10.73
+Forex Charge:2.11
+EPRA Charge:0.08
+WARMA Charge:0.04
+REP Charge:1.38
+Inflation Adjustment:1.29.
+2/7/22, 00:50 - Dan: KPLC Token
+MtrNo:14286114757
+Token:5025-0657-9928-5440-3959
+Date:2021-05-24 14:04
+Units:11.95
+Amt Ksh:200.00
+Token Amt:119.50
+VAT:26.67
+Fuel Energy Charge:34.88
+Forex Charge:7.99
+EPRA Charge:0.35
+WARMA Charge:0.23
+REP Charge:5.97
+Inflation Adjustment:4.41.
+2/7/22, 08:25 - Dan: KPLC Token
+MtrNo:37150738880
+Token:3655-0675-3163-4336-6690
+Date:2022-02-01 20:48
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/7/22, 08:25 - Dan: KPLC Token
+MtrNo:14228802089
+Token:2318-6494-7797-2120-3746
+Date:2022-01-30 00:46
+Units:31.37
+Amt Ksh:500.00
+Token Amt:241.62
+VAT:61.89
+Fuel Energy Charge:145.26
+Forex Charge:22.94
+EPRA Charge:0.94
+WRA Charge:0.54
+REP Charge:12.07
+Inflation Adjustment:14.74.
+2/7/22, 08:25 - Dan: KPLC Token
+MtrNo:14228802089
+Token:3268-9040-6196-5455-2971
+Date:2022-01-24 19:17
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/7/22, 08:25 - Dan: KPLC Token
+MtrNo:14228802089
+Token:5730-4927-5043-4798-4110
+Date:2022-01-24 19:18
+Units:6.21
+Amt Ksh:99.00
+Token Amt:47.87
+VAT:12.25
+Fuel Energy Charge:28.76
+Forex Charge:4.54
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.39
+Inflation Adjustment:2.91.
+2/7/22, 08:25 - Dan: KPLC Token
+MtrNo:14228802089
+Token:5866-6671-2627-9493-4961
+Date:2022-01-22 17:50
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/7/22, 08:25 - Dan: KPLC Token
+MtrNo:14228802089
+Token:2598-1712-4330-8536-9892
+Date:2021-09-27 21:55
+Units:27.66
+Amt Ksh:500.00
+Token Amt:276.63
+VAT:66.86
+Fuel Energy Charge:107.3
+Forex Charge:21.14
+EPRA Charge:0.82
+WARMA Charge:0.44
+REP Charge:13.82
+Inflation Adjustment:12.99.
+2/7/22, 08:34 - Dan: KPLC Token
+MtrNo:37167306002
+Token:6928-5220-0202-8753-7600
+Date:2022-01-20 21:03
+Units:5.33
+Amt Ksh:100.00
+Token Amt:41.09
+Total Debt:15.0
+VAT:10.52
+Fuel Energy Charge:24.69
+Forex Charge:3.9
+EPRA Charge:0.16
+WRA Charge:0.09
+REP Charge:2.05
+Inflation Adjustment:2.5.
+2/7/22, 08:34 - Dan: KPLC Token
+MtrNo:37167306002
+Token:0533-5893-2817-7468-3351
+Date:2021-12-26 21:11
+Units:4.49
+Amt Ksh:100.00
+Token Amt:45.00
+Total Debt:15.0
+VAT:11.37
+Fuel Energy Charge:20.8
+Forex Charge:3.28
+EPRA Charge:0.13
+WRA Charge:0.07
+REP Charge:2.24
+Inflation Adjustment:2.11.
+2/7/22, 08:34 - Dan: KPLC Token
+MtrNo:37167306002
+Token:4852-0356-8025-1889-9437
+Date:2022-01-11 10:12
+Units:5.33
+Amt Ksh:100.00
+Token Amt:41.09
+Total Debt:15.0
+VAT:10.52
+Fuel Energy Charge:24.69
+Forex Charge:3.9
+EPRA Charge:0.16
+WRA Charge:0.09
+REP Charge:2.05
+Inflation Adjustment:2.5.
+2/7/22, 08:57 - Dan: KPLC Token 
+Mtr No: 37194434397  
+Token: 3459-1394-2114-5619-1788
+Date: 2020-01-19 17:05:44 +0300
+Units kWh:13.0
+Amount Ksh:200.00
+Token Amount Ksh:130.05
+VAT: 26.58
+Fuel Energy Charge: 32.49
+Forex Charge: 0.1
+EPRA Charge: 0.38
+WARMA Charge: 0.28
+REP Charge: 6.49
+Inflation Adjustment: 3.63.
+2/7/22, 08:57 - Dan: KPLC Token 
+Mtr No: 37194434397  
+Token: 3828-2418-6751-1682-1170
+Date: 2020-02-17 22:41:01 +0300
+Units kWh:6.51
+Amount Ksh:100.00
+Token Amount Ksh:65.09
+VAT: 13.3
+Fuel Energy Charge: 16.27
+Forex Charge: -0.05
+EPRA Charge: 0.19
+WARMA Charge: 0.13
+REP Charge: 3.25
+Inflation Adjustment: 1.82.
+2/7/22, 08:57 - Dan: KPLC Token 
+Mtr No: 37207467152  
+Token: 2647-4571-4730-0708-5205
+Date: 2020-03-20 09:18:00 +0300
+Units kWh:10.44
+Amount Ksh:199.00
+Token Amount Ksh:104.47
+Total Debt: 39.8
+VAT: 21.15
+Fuel Energy Charge: 26.11
+Forex Charge: -1.2
+EPRA Charge: 0.31
+WARMA Charge: 0.22
+REP Charge: 5.22
+Inflation Adjustment: 2.92.
+2/7/22, 08:57 - Dan: KPLC Token 
+MtrNo: 37207467152  
+Token: 4056-2667-0803-5083-2097
+Units kWh:5.2
+Amount Ksh:100.00
+Token Amount Ksh:52.03
+Total Debt: 20.0
+VAT: 9.46
+Fuel Energy Charge: 12.99
+Forex Charge: 1.22
+EPRA Charge: 0.15
+WARMA Charge: 0.11
+REP Charge: 2.59
+Inflation Adjustment: 1.45.
+2/7/22, 08:57 - Dan: KPLC Token 
+MtrNo: 37194434397  
+Token: 5933-5387-2796-8470-6035
+Date: 2020-08-12 20:56:16 +0300
+Units kWh:16.03
+Amount Ksh:250.00
+Token Amount Ksh:160.32
+VAT: 29.59
+Fuel Energy Charge: 38.46
+Forex Charge: 7.64
+EPRA Charge: 0.48
+WARMA Charge: 0.38
+REP Charge: 8.01
+Inflation Adjustment: 5.12.
+2/7/22, 08:57 - Dan: KPLC Token 
+MtrNo: 37194434397  
+Token: 5656-5968-3523-6145-3108
+Date: 2020-09-21 06:48:46 +0300
+Units kWh:15.88
+Amount Ksh:250.00
+Token Amount Ksh:158.80
+VAT: 29.62
+Fuel Energy Charge: 38.58
+Forex Charge: 9.17
+EPRA Charge: 0.47
+WARMA Charge: 0.35
+REP Charge: 7.93
+Inflation Adjustment: 5.08.
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:4920-8196-7174-8789-7332
+Date:2020-11-30 21:36
+Units:28.38
+Amt Ksh:450.00
+Token Amt:283.79
+VAT:53.33
+Fuel Energy Charge:72.64
+Forex Charge:15.5
+EPRA Charge:0.85
+WARMA Charge:0.63
+REP Charge:14.18
+Inflation Adjustment:9.08.
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:4166-1556-1789-5598-6497
+Date:2020-12-29 12:40
+Units:31.19
+Amt Ksh:500.00
+Token Amt:311.93
+VAT:59.26
+Fuel Energy Charge:79.83
+Forex Charge:21.75
+EPRA Charge:0.93
+WARMA Charge:0.74
+REP Charge:15.59
+Inflation Adjustment:9.97.
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:1094-2765-7304-6139-0161
+Date:2021-02-08 06:47
+Units:29.33
+Amt Ksh:500.00
+Token Amt:293.39
+VAT:66.71
+Fuel Energy Charge:75.67
+Forex Charge:38.61
+EPRA Charge:0.87
+WARMA Charge:0.71
+REP Charge:14.66
+Inflation Adjustment:9.38.
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:0769-8363-6239-7650-9956
+Date:2021-03-01 06:53
+Units:30.53
+Amt Ksh:500.00
+Token Amt:305.34
+VAT:66.63
+Fuel Energy Charg
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:0769-8363-6239-7650-9956
+Date:2021-03-01 06:53
+Units:30.53
+Amt Ksh:500.00
+Token Amt:305.34
+VAT:66.63
+Fuel Energy Charge:79.67
+Forex Charge:20.29
+EPRA Charge:0.91
+WARMA Charge:0.61
+REP Charge:15.26
+Inflation Adjustment:11.29.
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:4392-8657-6286-1352-7907
+Date:2021-04-22 08:27
+Units:29.13
+Amt Ksh:500.00
+Token Amt:291.30
+VAT:66.75
+Fuel Energy Charge:91.45
+Forex Charge:23.78
+EPRA Charge:0.87
+WARMA Charge:0.52
+REP Charge:14.56
+Inflation Adjustment:10.77.
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:1960-9522-1031-8947-0315
+Date:2021-05-15 15:26
+Units:17.92
+Amt Ksh:300.00
+Token Amt:179.24
+VAT:40.0
+Fuel Energy Charge:52.32
+Forex Charge:11.99
+EPRA Charge:0.53
+WARMA Charge:0.35
+REP Charge:8.95
+Inflation Adjustment:6.62.
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:6570-9362-0659-4659-3471
+Date:2021-05-29 08:51
+Units:29.86
+Amt Ksh:500.00
+Token Amt:298.69
+VAT:66.68
+Fuel Energy Charge:87.2
+Forex Charge:19.99
+EPRA Charge:0.89
+WARMA Charge:0.58
+REP Charge:14.93
+Inflation Adjustment:11.04.
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:0363-0508-3782-9284-8599
+Date:2021-08-18 09:30
+Units:19.59
+Amt Ksh:350.00
+Token Amt:195.98
+VAT:46.78
+Fuel Energy Charge:73.86
+Forex Charge:13.49
+EPRA Charge:0.58
+WARMA Charge:0.32
+REP Charge:9.79
+Inflation Adjustment:9.2.
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:5537-9864-2106-8364-1766
+Date:2021-09-19 21:18
+Units:22.13
+Amt Ksh:400.00
+Token Amt:221.30
+VAT:53.49
+Fuel Energy Charge:85.84
+Forex Charge:16.91
+EPRA Charge:0.66
+WARMA Charge:0.35
+REP Charge:11.06
+Inflation Adjustment:10.39.
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:4913-5055-3157-5384-0842
+Date:2021-10-26 15:10
+Units:27.02
+Amt Ksh:500.00
+Token Amt:270.28
+VAT:66.92
+Fuel Energy Charge:107.28
+Forex Charge:28.08
+EPRA Charge:0.81
+WARMA Charge:0.42
+REP Charge:13.51
+Inflation Adjustment:12.7.
+2/7/22, 08:57 - Dan: KPLC Token
+MtrNo:37194434397
+Token:0783-4330-0897-2193-8923
+Date:2021-11-29 07:28
+Units:32.56
+Amt Ksh:600.00
+Token Amt:325.64
+VAT:80.28
+Fuel Energy Charge:137.06
+Forex Charge:23.9
+EPRA Charge:0.97
+WRA Charge:0.58
+REP Charge:16.27
+Inflation Adjustment:15.3.
+2/7/22, 09:03 - Dan: KPLC Token
+MtrNo:37167306002
+Token:6928-5220-0202-8753-7600
+Date:2022-01-20 21:03
+Units:5.33
+Amt Ksh:100.00
+Token Amt:41.09
+Total Debt:15.0
+VAT:10.52
+Fuel Energy Charge:24.69
+Forex Charge:3.9
+EPRA Charge:0.16
+WRA Charge:0.09
+REP Charge:2.05
+Inflation Adjustment:2.5.
+2/7/22, 09:03 - Dan: KPLC Token
+MtrNo:37167306002
+Token:0533-5893-2817-7468-3351
+Date:2021-12-26 21:11
+Units:4.49
+Amt Ksh:100.00
+Token Amt:45.00
+Total Debt:15.0
+VAT:11.37
+Fuel Energy Charge:20.8
+Forex Charge:3.28
+EPRA Charge:0.13
+WRA Charge:0.07
+REP Charge:2.24
+Inflation Adjustment:2.11.
+2/7/22, 09:03 - Dan: KPLC Token
+MtrNo:37167306002
+Token:4852-0356-8025-1889-9437
+Date:2022-01-11 10:12
+Units:5.33
+Amt Ksh:100.00
+Token Amt:41.09
+Total Debt:15.0
+VAT:10.52
+Fuel Energy Charge:24.69
+Forex Charge:3.9
+EPRA Charge:0.16
+WRA Charge:0.09
+REP Charge:2.05
+Inflation Adjustment:2.5.
+2/7/22, 09:03 - Dan: KPLC Token
+MtrNo:22120026327
+Token:4596-4318-9625-0357-5273
+Date:2022-02-07 06:44
+Units:22.87
+Amt Ksh:500.00
+Token Amt:288.17
+VAT:63.03
+Fuel Energy Charge:105.87
+Forex Charge:16.72
+EPRA Charge:0.68
+WRA Charge:0.39
+REP Charge:14.4
+Inflation Adjustment:10.74.
+2/7/22, 09:50 - Dan: KPLC Token
+MtrNo:37167306002
+Token:4724-3912-9812-4649-0499
+Date:2021-11-16 20:08
+Units:4.61
+Amt Ksh:100.00
+Token Amt:46.18
+Total Debt:15.0
+VAT:11.36
+Fuel Energy Charge:19.41
+Forex Charge:3.38
+EPRA Charge:0.13
+WARMA Charge:0.08
+REP Charge:2.3
+Inflation Adjustment:2.16.
+2/7/22, 09:50 - Dan: KPLC Token
+MtrNo:37167306002
+Token:3937-0869-4769-3946-6954
+Date:2021-10-01 21:36
+Units:4.7
+Amt Ksh:100.00
+Token Amt:47.06
+Total Debt:15.0
+VAT:11.35
+Fuel Energy Charge:18.24
+Forex Charge:3.59
+EPRA Charge:0.14
+WARMA Charge:0.07
+REP Charge:2.35
+Inflation Adjustment:2.2.
+2/7/22, 09:50 - Dan: KPLC Token
+MtrNo:37167306002
+Token:4570-3632-0188-1900-9846
+Date:2021-09-19 19:53
+Units:4.7
+Amt Ksh:100.00
+Token Amt:47.06
+Total Debt:15.0
+VAT:11.35
+Fuel Energy Charge:18.24
+Forex Charge:3.59
+EPRA Charge:0.14
+WARMA Charge:0.07
+REP Charge:2.35
+Inflation Adjustment:2.2.
+2/7/22, 09:50 - Dan: KPLC Token
+MtrNo:37167306002
+Token:6115-3323-0670-4145-2432
+Date:2021-09-11 20:23
+Units:4.7
+Amt Ksh:100.00
+Token Amt:47.06
+Total Debt:15.0
+VAT:11.35
+Fuel Energy Charge:18.24
+Forex Charge:3.59
+EPRA Charge:0.14
+WARMA Charge:0.07
+REP Charge:2.35
+Inflation Adjustment:2.2.
+2/7/22, 09:50 - Dan: KPLC Token
+MtrNo:37167306002
+Token:4925-3119-7721-5053-9453
+Date:2021-08-27 19:26
+Units:4.76
+Amt Ksh:100.00
+Token Amt:47.64
+Total Debt:15.0
+VAT:11.35
+Fuel Energy Charge:17.93
+Forex Charge:3.27
+EPRA Charge:0.14
+WARMA Charge:0.07
+REP Charge:2.37
+Inflation Adjustment:2.23.
+2/7/22, 09:50 - Dan: KPLC Token
+MtrNo:37167306002
+Token:1326-5803-9339-0897-5484
+Date:2021-09-04 15:37
+Units:4.76
+Amt Ksh:100.00
+Token Amt:47.64
+Total Debt:15.0
+VAT:11.35
+Fuel Energy Charge:17.93
+Forex Charge:3.27
+EPRA Charge:0.14
+WARMA Charge:0.07
+REP Charge:2.37
+Inflation Adjustment:2.23.
+2/7/22, 09:50 - Dan: KPLC Token
+MtrNo:37167306002
+Token:2457-1113-5634-7509-7498
+Date:2021-08-16 14:23
+Units:4.76
+Amt Ksh:100.00
+Token Amt:47.64
+Total Debt:15.0
+VAT:11.35
+Fuel Energy Charge:17.93
+Forex Charge:3.27
+EPRA Charge:0.14
+WARMA Charge:0.07
+REP Charge:2.37
+Inflation Adjustment:2.23.
+2/7/22, 10:41 - Dan: KPLC Token
+MtrNo:37187239233
+Token:1070-0121-1891-0542-2158
+Date:2021-07-07 05:40
+Units:11.31
+Amt Ksh:200.00
+Token Amt:113.17
+VAT:26.7
+Fuel Energy Charge:41.05
+Forex Charge:8.67
+EPRA Charge:0.33
+WARMA Charge:0.25
+REP Charge:5.65
+Inflation Adjustment:4.18.
+2/7/22, 10:41 - Dan: KPLC Token
+MtrNo:37187239233
+Token:3746-1221-9536-3999-9162
+Date:2021-10-22 18:17
+Units:5.4
+Amt Ksh:100.00
+Token Amt:54.09
+VAT:13.37
+Fuel Energy Charge:21.45
+Forex Charge:5.61
+EPRA Charge:0.16
+WARMA Charge:0.08
+REP Charge:2.7
+Inflation Adjustment:2.54.
+2/7/22, 10:41 - Dan: KPLC Token
+MtrNo:37187239233
+Token:3061-7227-9060-1644-6406
+Date:2021-10-29 04:44
+Units:5.4
+Amt Ksh:100.00
+Token Amt:54.09
+VAT:13.37
+Fuel Energy Charge:21.45
+Forex Charge:5.61
+EPRA Charge:0.16
+WARMA Charge:0.08
+REP Charge:2.7
+Inflation Adjustment:2.54.
+2/7/22, 10:41 - Dan: KPLC Token
+MtrNo:37187239233
+Token:3463-3435-6642-5512-9993
+Date:2021-11-08 19:40
+Units:5.43
+Amt Ksh:100.00
+Token Amt:54.31
+VAT:13.36
+Fuel Energy Charge:22.84
+Forex Charge:3.98
+EPRA Charge:0.16
+WARMA Charge:0.09
+REP Charge:2.71
+Inflation Adjustment:2.55.
+2/7/22, 10:41 - Dan: KPLC Token
+MtrNo:37187239233
+Token:0803-0766-7820-8166-9448
+Date:2022-01-04 20:39
+Units:5.29
+Amt Ksh:100.00
+Token Amt:52.93
+VAT:13.37
+Fuel Energy Charge:24.48
+Forex Charge:3.86
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.64
+Inflation Adjustment:2.48.
+2/7/22, 11:14 - Dan: KPLC Token
+MtrNo:37187356920
+Token:2719-3076-6276-8636-0520
+Date:2022-02-04 05:32
+Units:12.55
+Amt Ksh:200.00
+Token Amt:96.68
+VAT:24.75
+Fuel Energy Charge:58.1
+Forex Charge:9.17
+EPRA Charge:0.37
+WRA Charge:0.21
+REP Charge:4.83
+Inflation Adjustment:5.89.
+2/7/22, 11:14 - Dan: KPLC Token
+MtrNo:37187356920
+Token:5989-5391-8045-5387-9101
+Date:2022-02-02 11:55
+Units:3.14
+Amt Ksh:50.00
+Token Amt:24.19
+VAT:6.19
+Fuel Energy Charge:14.52
+Forex Charge:2.29
+EPRA Charge:0.09
+WRA Charge:0.05
+REP Charge:1.2
+Inflation Adjustment:1.47.
+2/7/22, 11:14 - Dan: KPLC Token
+MtrNo:37187356920
+Token:2254-0498-2851-1307-5786
+Date:2022-01-26 15:56
+Units:12.55
+Amt Ksh:200.00
+Token Amt:96.68
+VAT:24.75
+Fuel Energy Charge:58.1
+Forex Charge:9.17
+EPRA Charge:0.37
+WRA Charge:0.21
+REP Charge:4.83
+Inflation Adjustment:5.89.
+2/7/22, 11:14 - Dan: KPLC Token
+MtrNo:37187356920
+Token:6452-8618-8041-9206-8448
+Date:2022-01-23 22:05
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/7/22, 11:14 - Dan: KPLC Token
+MtrNo:37187356920
+Token:5713-6981-2581-5512-3515
+Date:2022-01-11 10:51
+Units:3.14
+Amt Ksh:50.00
+Token Amt:24.19
+VAT:6.19
+Fuel Energy Charge:14.52
+Forex Charge:2.29
+EPRA Charge:0.09
+WRA Charge:0.05
+REP Charge:1.2
+Inflation Adjustment:1.47.
+2/7/22, 11:14 - Dan: KPLC Token
+MtrNo:37187356920
+Token:4664-7978-3366-6672-0736
+Date:2022-01-08 16:13
+Units:12.55
+Amt Ksh:200.00
+Token Amt:96.68
+VAT:24.75
+Fuel Energy Charge:58.1
+Forex Charge:9.17
+EPRA Charge:0.37
+WRA Charge:0.21
+REP Charge:4.83
+Inflation Adjustment:5.89.
+2/7/22, 11:14 - Dan: KPLC Token
+MtrNo:37187356920
+Token:5756-2647-0701-7324-6581
+Date:2022-01-01 05:16
+Units:10.58
+Amt Ksh:200.00
+Token Amt:105.80
+VAT:26.77
+Fuel Energy Charge:48.96
+Forex Charge:7.73
+EPRA Charge:0.31
+WRA Charge:0.18
+REP Charge:5.28
+Inflation Adjustment:4.97.
+2/7/22, 11:14 - Dan: KPLC Token
+MtrNo:37187356920
+Token:4997-4567-4974-6992-2549
+Date:2021-12-24 03:43
+Units:5.29
+Amt Ksh:100.00
+Token Amt:52.93
+VAT:13.37
+Fuel Energy Charge:24.48
+Forex Charge:3.86
+EPRA Charge:0.15
+WRA Charge:0.09
+REP Charge:2.64
+Inflation Adjustment:2.48.
+2/7/22, 17:25 - Dan: KPLC Token
+MtrNo:37164472807
+Token:5729-3028-1595-6857-7815
+Date:2022-01-17 23:52
+Units:45.73
+Amt Ksh:1000.00
+Token Amt:576.29
+VAT:126.07
+Fuel Energy Charge:211.74
+Forex Charge:33.44
+EPRA Charge:1.37
+WRA Charge:0.79
+REP Charge:28.81
+Inflation Adjustment:21.49.
+2/7/22, 17:25 - Dan: KPLC Token
+MtrNo:37164472807
+Token:7376-4248-6965-0521-0802
+Date:2021-12-22 19:24
+Units:38.57
+Amt Ksh:1000.00
+Token Amt:609.39
+VAT:133.46
+Fuel Energy Charge:178.55
+Forex Charge:28.2
+EPRA Charge:1.15
+WRA Charge:0.67
+REP Charge:30.46
+Inflation Adjustment:18.12.
+2/7/22, 17:25 - Dan: KPLC Token
+MtrNo:14105969704
+Token:3771-1424-6796-9701-9207
+Date:2021-11-17 23:40
+Units:78.6
+Amt Ksh:2000.00
+Token Amt:1241.85
+VAT:266.77
+Fuel Energy Charge:330.88
+Forex Charge:57.7
+EPRA Charge:2.35
+WARMA Charge:1.42
+REP Charge:62.09
+Inflation Adjustment:36.94.
+2/7/22, 17:57 - Dan: KPLC Token
+MtrNo:54607420939
+Token:4521-3624-4038-8579-7660
+Date:2022-01-26 22:23
+Units:9.6
+Amt Ksh:153.00
+Token Amt:73.95
+VAT:18.94
+Fuel Energy Charge:44.45
+Forex Charge:7.02
+EPRA Charge:0.28
+WRA Charge:0.16
+REP Charge:3.69
+Inflation Adjustment:4.51.
+2/7/22, 17:57 - Dan: KPLC Token
+MtrNo:54607420939
+Token:4793-9466-8586-7680-4821
+Date:2022-01-02 13:05
+Units:31.73
+Amt Ksh:600.00
+Token Amt:317.29
+VAT:80.35
+Fuel Energy Charge:146.89
+Forex Charge:23.2
+EPRA Charge:0.95
+WRA Charge:0.55
+REP Charge:15.86
+Inflation Adjustment:14.91.
+2/7/22, 17:57 - Dan: KPLC Token
+MtrNo:14283948975
+Token:1092-6961-4969-4575-1740
+Date:2021-12-31 06:35
+Units:7.71
+Amt Ksh:200.00
+Token Amt:121.90
+VAT:26.68
+Fuel Energy Charge:35.71
+Forex Charge:5.64
+EPRA Charge:0.23
+WRA Charge:0.13
+REP Charge:6.09
+Inflation Adjustment:3.62.
+2/7/22, 19:13 - Dan: BETHA WAWIRA MUCHIRA
+Meter: 14140544702
+Token: 2039 0233 7409 3107 7954
+Rcpt: PDSLOVS29265776
+Date: 27/12/2021 20:59Amt: KES 100.00
+Units: 5.29
+2/7/22, 19:13 - Dan: BETHA WAWIRA MUCHIRA
+Meter: 14140544702
+Token: 3320 2586 2664 3752 2327
+Rcpt: PDSLOVS02031991
+Date: 13/11/2021 11:31Amt: KES 200.00
+Units: 10.85
+2/7/22, 19:13 - Dan: BETHA WAWIRA MUCHIRA
+Meter: 14140544702
+Token: 0788 8256 0981 5690 2648
+Rcpt: PDSLOVS38213319
+Date: 11/01/2022 21:48Amt: KES 150.00
+Units: 9.41
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:14244321270
+Token:1228-4032-3067-1217-0081
+Date:2021-10-29 16:11
+Units:5.4
+Amt Ksh:100.00
+Token Amt:54.09
+VAT:13.37
+Fuel Energy Charge:21.45
+Forex Charge:5.61
+EPRA Charge:0.16
+WARMA Charge:0.08
+REP Charge:2.7
+Inflation Adjustment:2.54.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:14244321270
+Token:6737-1463-0996-7451-1154
+Date:2022-01-26 19:44
+Units:6.27
+Amt Ksh:100.00
+Token Amt:48.37
+VAT:12.37
+Fuel Energy Charge:29.05
+Forex Charge:4.58
+EPRA Charge:0.18
+WRA Charge:0.1
+REP Charge:2.41
+Inflation Adjustment:2.94.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:14244321270
+Token:5830-3507-0185-0280-5976
+Date:2021-12-08 13:31
+Units:2.71
+Amt Ksh:50.00
+Token Amt:27.18
+VAT:6.67
+Fuel Energy Charge:11.42
+Forex Charge:1.99
+EPRA Charge:0.08
+WRA Charge:0.04
+REP Charge:1.35
+Inflation Adjustment:1.27.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:14244321270
+Token:3990-4112-7532-1551-6858
+Date:2021-10-10 18:10
+Units:5.4
+Amt Ksh:100.00
+Token Amt:54.09
+VAT:13.37
+Fuel Energy Charge:21.45
+Forex Charge:5.61
+EPRA Charge:0.16
+WARMA Charge:0.08
+REP Charge:2.7
+Inflation Adjustment:2.54.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:14243629160
+Token:3673-7432-2862-6800-0065
+Date:2021-09-27 09:04
+Units:5.53
+Amt Ksh:100.00
+Token Amt:55.37
+VAT:13.36
+Fuel Energy Charge:21.46
+Forex Charge:4.22
+EPRA Charge:0.16
+WARMA Charge:0.08
+REP Charge:2.76
+Inflation Adjustment:2.59.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:14243629160
+Token:2960-1307-1716-2778-3719
+Date:2021-08-10 08:34
+Units:5.6
+Amt Ksh:100.00
+Token Amt:56.02
+VAT:13.36
+Fuel Energy Charge:21.1
+Forex Charge:3.85
+EPRA Charge:0.16
+WARMA Charge:0.09
+REP Charge:2.79
+Inflation Adjustment:2.63.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:22213593910
+Token:6022-2060-1060-5905-0265
+Date:2021-12-09 19:37
+Units:0.54
+Amt Ksh:10.00
+Token Amt:5.47
+VAT:1.33
+Fuel Energy Charge:2.28
+Forex Charge:0.39
+EPRA Charge:0.01
+REP Charge:0.27
+Inflation Adjustment:0.25.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:54602861384
+Token:3128-4634-4941-9922-1073
+Date:2021-07-12 11:11
+Units:0.17
+Amt Ksh:3.00
+Token Amt:1.72
+VAT:0.39
+Fuel Energy Charge:0.55
+Forex Charge:0.19
+REP Charge:0.08
+Inflation Adjustment:0.07.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:54602861384
+Token:3128-4634-4941-9922-1073
+Date:2021-07-12 11:11
+Units:0.17
+Amt Ksh:3.00
+Token Amt:1.72
+VAT:0.39
+Fuel Energy Charge:0.55
+Forex Charge:0.19
+REP Charge:0.08
+Inflation Adjustment:0.07.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:54602861384
+Token:3128-4634-4941-9922-1073
+Date:2021-07-12 11:11
+Units:0.17
+Amt Ksh:3.00
+Token Amt:1.72
+VAT:0.39
+Fuel Energy Charge:0.55
+Forex Charge:0.19
+REP Charge:0.08
+Inflation Adjustment:0.07.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:54602861384
+Token:3128-4634-4941-9922-1073
+Date:2021-07-12 11:11
+Units:0.17
+Amt Ksh:3.00
+Token Amt:1.72
+VAT:0.39
+Fuel Energy Charge:0.55
+Forex Charge:0.19
+REP Charge:0.08
+Inflation Adjustment:0.07.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:54602861384
+Token:3128-4634-4941-9922-1073
+Date:2021-07-12 11:11
+Units:0.17
+Amt Ksh:3.00
+Token Amt:1.72
+VAT:0.39
+Fuel Energy Charge:0.55
+Forex Charge:0.19
+REP Charge:0.08
+Inflation Adjustment:0.07.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:37155841374
+Token:4722-6098-2154-2243-5683
+Date:2021-03-12 09:22
+Units:0.57
+Amt Ksh:20.00
+Token Amt:5.71
+Total Debt:10.0
+VAT:1.33
+Fuel Energy Charge:2.01
+Forex Charge:0.44
+EPRA Charge:0.01
+WARMA Charge:0.01
+REP Charge:0.28
+Inflation Adjustment:0.21.
+2/8/22, 10:08 - Dan: KPLC Token 
+MtrNo: 37166463515  
+Token: 2072-3473-7304-0860-5609
+Date: 2020-08-24 11:07:20 +0300
+Units kWh:6.41
+Amount Ksh:100.00
+Token Amount Ksh:64.15
+VAT: 11.83
+Fuel Energy Charge: 15.38
+Forex Charge: 3.05
+EPRA Charge: 0.19
+WARMA Charge: 0.15
+REP Charge: 3.2
+Inflation Adjustment: 2.05.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:54602861384
+Token:3128-4634-4941-9922-1073
+Date:2021-07-12 11:11
+Units:0.17
+Amt Ksh:3.00
+Token Amt:1.72
+VAT:0.39
+Fuel Energy Charge:0.55
+Forex Charge:0.19
+REP Charge:0.08
+Inflation Adjustment:0.07.
+2/8/22, 10:08 - Dan: KPLC Token
+MtrNo:37155841374
+Token:4722-6098-2154-2243-5683
+Date:2021-03-12 09:22
+Units:0.57
+Amt Ksh:20.00
+Token Amt:5.71
+Total Debt:10.0
+VAT:1.33
+Fuel Energy Charge:2.01
+Forex Charge:0.44
+EPRA Charge:0.01
+WARMA Charge:0.01
+REP Charge:0.28
+Inflation Adjustment:0.21.
+2/8/22, 10:08 - Dan: KPLC Token 
+MtrNo: 37155841374  
+Token: 1262-6388-3869-3963-9523
+Date: 2020-07-07 16:40:24 +0300
+Units kWh:3.9
+Amount Ksh:150.00
+Token Amount Ksh:39.08
+Total Debt: 90.0
+VAT: 7.09
+Fuel Energy Charge: 9.36
+Forex Charge: 1.24
+EPRA Charge: 0.11
+WARMA Charge: 0.08
+REP Charge: 1.95
+Inflation Adjustment: 1.09.
+2/8/22, 10:08 - Dan: KPLC Token 
+MtrNo: 37166463515  
+Token: 4406-7557-7465-4575-7088
+Date: 2020-08-24 10:50:28 +0300
+Units kWh:1.28
+Amount Ksh:20.00
+Token Amount Ksh:12.86
+VAT: 2.35
+Fuel Energy Charge: 3.07
+Forex Charge: 0.61
+EPRA Charge: 0.03
+WARMA Charge: 0.03
+REP Charge: 0.64
+Inflation Adjustment: 0.41.
+2/10/22, 15:23 - Dan: KPLC Token
+MtrNo:22120445006
+Token:0050-5050-3180-3618-9712
+Date:2022-02-09 23:05
+Units:18.82
+Amt Ksh:300.00
+Token Amt:145.00
+VAT:37.13
+Fuel Energy Charge:87.15
+Forex Charge:13.76
+EPRA Charge:0.56
+WRA Charge:0.32
+REP Charge:7.24
+Inflation Adjustment:8.84.
